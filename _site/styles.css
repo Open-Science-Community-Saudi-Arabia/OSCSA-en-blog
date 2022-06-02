@@ -13,12 +13,12 @@ code.sourceCode.bibtex {
   unicode-bidi: isolate;
 }
 
-
-
+h3 {
+  font-weight: 600;
+}
 .me-auto {
     margin-right: 0 !important;
 }
-
 
 .quarto-title-banner {
   background: white;
