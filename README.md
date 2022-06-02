@@ -7,6 +7,7 @@ OSCSA English blog (https://oscsa-en-blog.netlify.app/)
 - Fork the repo intern
 - Navigate to `_post` and then to the folder where you'll add your post
 - There remplate created called `index.qmd` which you should add your text/images using Markdown to it.
+- If you want to add image, make sure you add it to the same folder which `index.qmd` is in
 - Remove `draft: true`
 - Run frm the command line `quarto preview` to preview your post
 - Submit you PR
