@@ -1,0 +1,33 @@
+/* css styles */
+
+h1 {
+  font-family: 'Kufam', sans-serif;
+  font-weight: 500;
+  color: #008CBA;
+
+  /* color: #757474; */
+}
+
+
+code.sourceCode.bibtex {
+  unicode-bidi: isolate;
+}
+
+
+
+.me-auto {
+    margin-right: 0 !important;
+}
+
+
+.quarto-title-banner {
+  background: white;
+}
+
+.navbar-brand>img {
+  max-height: 70px;
+}
+
+#listing-listing > div.list.quarto-listing-default > div:nth-child(1) > div.metadata > a > div.listing-author {
+
+}
