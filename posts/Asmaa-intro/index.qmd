@@ -7,17 +7,19 @@ author:
 date: "2022-05-30"
 categories: [outreachy]
 subtitle: "My First Intership in Outreachy"
+description: |
+  This post is a little intro about myself and work in outreachy as part of Open Science Community Saudi Arabia (OSCSA).
 license: "CC BY"
 toc-title: Table of contents
 toc-location: left
-image: outreachy.png
+image: Outreachy-Internship-Program.png
 ---
 
-:::{.column-page}
+::: column-page
 ![](Outreachy-Internship-Program.png){fig-align="center"}
 :::
 
-I'm very excited to be officially starting my time as an Outreachy participant contributing to the **Open Science Community Saudi Arabia (OSCSA)**. I'm Asma Kacem, a student from Tunisia that will graduate the next year.I pursue Bachelor of Technology in Computer Science and Engineering. I love all types of sports, especially BasketBall.
+I'm very excited to be officially starting my time as an Outreachy participant contributing to the [**Open Science Community Saudi Arabia (OSCSA)**.](https://osc-ksa.com/) I'm Asma Kacem, a student from Tunisia that will graduate the next year.I pursue Bachelor of Technology in Computer Science and Engineering. I love all types of sports, especially BasketBall.
 
 # What is Outreachy?
 
