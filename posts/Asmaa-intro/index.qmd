@@ -1,6 +1,9 @@
 ---
 title: "Outreachy - Introduce yourself"
-author: "Asma Kacem"
+author:
+  - name: Asmaa Kasim 
+    url: https://asmakacem.me/
+    affiliation: National Engineering School of Sousse (ENISO)
 date: "2022-05-30"
 categories: [outreachy]
 
