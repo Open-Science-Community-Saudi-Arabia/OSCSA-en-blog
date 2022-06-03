@@ -6,7 +6,10 @@ author:
     affiliation: National Engineering School of Sousse (ENISO)
 date: "2022-05-30"
 categories: [outreachy]
-
+subtitle: "A little bit about myself"
+license: "CC BY"
+toc-title: Table of contents
+toc-location: left
 ---
 
 # Hello Open Source Enthusiasts, 
