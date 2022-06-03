@@ -1,47 +1,42 @@
 ---
-title: "Outreachy - Introduce yourself"
+title: "Hello Open Source Enthusiasts!"
 author:
   - name: Asmaa Kasim 
     url: https://asmakacem.me/
     affiliation: National Engineering School of Sousse (ENISO)
 date: "2022-05-30"
 categories: [outreachy]
-subtitle: "A little bit about myself"
+subtitle: "My First Intership in Outreachy"
 license: "CC BY"
 toc-title: Table of contents
 toc-location: left
+image: outreachy.png
 ---
 
-# Hello Open Source Enthusiasts, 
+:::{.column-page}
+![](Outreachy-Internship-Program.png){fig-align="center"}
+:::
 
-![Open Science Community Saudi Arabia](Open Science Community Saudi Arabia.png)
-
-I’m very excited to be officially starting my time as an Outreachy participant contributing to the **Open Science Community Saudi Arabia (OSCSA)**.
-I’m Asma Kacem, a student from Tunisia that will graduate the next year.I pursue Bachelor of Technology in Computer Science and Engineering.
-I love all types of sports, especially BasketBall.
+I'm very excited to be officially starting my time as an Outreachy participant contributing to the **Open Science Community Saudi Arabia (OSCSA)**. I'm Asma Kacem, a student from Tunisia that will graduate the next year.I pursue Bachelor of Technology in Computer Science and Engineering. I love all types of sports, especially BasketBall.
 
 # What is Outreachy?
 
-![outreachy](outreachy.png)
+![](outreachy_logo.png){fig-align="center" width="500"}
 
-**Outreachy** is a diversity initiative that provides paid, remote internships to people subject to systemic bias and impacted by underrepresentation in the technology industry where they are living. The goal of Outreachy is to increase diversity in **open source**. 
+**Outreachy** is a diversity initiative that provides paid, remote internships to people subject to systemic bias and impacted by underrepresentation in the technology industry where they are living. The goal of Outreachy is to increase diversity in **open source**.
 
-# My core values are Challenge, Responsibility, and Kindness.
+**My core values are Challenge, Responsibility, and Kindness.**
 
-* **Challenge** - Life without challenges will certainly feels duller I think. I face my challenges head on. There's no time to waste in this life, and it's either you pursue you challenges or the challenges will pursue you down to disappointment. I think the former is better option.
+-   **Challenge** - Life without challenges will certainly feels duller I think. I face my challenges head on. There's no time to waste in this life, and it's either you pursue you challenges or the challenges will pursue you down to disappointment. I think the former is better option.
 
-* **Responsibility** - Being responsible becomes an unavoidable thing as we all grow older. Taking ownership of your work and life is not easy but very important to live a good and fulfilling life.I have always felt that taking responsibility has helped me be more serious with my work and perform better.
+-   **Responsibility** - Being responsible becomes an unavoidable thing as we all grow older. Taking ownership of your work and life is not easy but very important to live a good and fulfilling life.I have always felt that taking responsibility has helped me be more serious with my work and perform better.
 
-* **Kindness** - is something that is most needed in the world we live in today.Taking care and considering other people whenever we can not only help them but will also help us. I am still not good enough to say that kindness is my core value, but it is quite important for me. I would like it to be one of my core values some day in future, and till then, I will try to be more kind each day.
+-   **Kindness** - is something that is most needed in the world we live in today.Taking care and considering other people whenever we can not only help them but will also help us. I am still not good enough to say that kindness is my core value, but it is quite important for me. I would like it to be one of my core values some day in future, and till then, I will try to be more kind each day.
 
-# And here’s a quote!
+**And here's a quote!**
 
-#### "Set a goal,you've got one shot make it count"
+> "Set a goal,you've got one shot make it count"
 
-![quote](quote.png)
+For anyone who is considering, I highly recommend applying as well! It can be intimidating to make your first contributions to open source (I remember how nervous I was making my very first PR), but the community and my mentor helped me a lot. And to go out of your comfort zone for a small time and then a little more each time, it really is rewarding and you'll learn so much.
 
-For anyone who is considering, I highly recommend applying as well! It can be intimidating to make your first contributions to open source (I remember how nervous I was making my very first PR), but the community and my mentor helped me a lot. And to go out of your comfort zone for a small time and then a little more each time, it really is rewarding and you’ll learn so much.
-
-# Thanks for reading. 💫✨
-
----
+**Thanks for reading.** 💫✨
