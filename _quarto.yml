@@ -7,7 +7,7 @@ website:
       theme: clean
       openSidebar: false
   title: "OSCSA"
-  favicon: "logo3-01.png"
+  favicon: favicon.png
   page-navigation: true
   page-footer:
     left:
@@ -26,7 +26,9 @@ website:
         aria-label: OSCSA GitHub
   search: true
   navbar:
-    logo: logo8-01.png
+    background: light
+    collapse-below: lg
+    logo: logo3.png
     title: false
     right:
       - icon: github
@@ -40,5 +42,9 @@ website:
         href: about.qmd
 format:
   html:
-    theme: yeti
+    toc: true
+    theme:
+      light: [cosmo, theme.scss]
+    code-copy: true
+    code-overflow: wrap
     css: styles.css
