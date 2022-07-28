@@ -1,5 +1,5 @@
 ---
-title: "Hello Open Source Enthusiasts!"
+title: "Everyone Struggles!"
 author:
   - name: Asma Kacem 
     url: https://asmakacem.me/
@@ -8,36 +8,34 @@ date: "2022-07-22"
 categories: [outreachy]
 subtitle: "Everyone Struggles"
 description: |
-  This post is about struggling and how to deal with it.
+  This post is about struggling in learning about Open Science during Outreachy intership and how to deal with it.
 license: "CC BY"
 toc-title: Table of contents
 toc-location: left
-image: Outreachy-Internship-Program.png
+image: struggle.png
+google-scholar: true
+citation:
+  type: post-weblog
 ---
 
 ::: column-page
-![](Outreachy-Internship-Program.png){fig-align="center"}
+![](struggle.png){fig-align="center"}
 :::
 
 # Hello Everyone!
 
-Welcome to the second blog post for the Outreachy series! This blog’s topic is **“Everyone Struggles”**. 
+Welcome to the second blog post for the Outreachy series! This blog's topic is **"Everyone Struggles"**.
 
 ![strug](https://user-images.githubusercontent.com/73066984/180395131-4b72f48f-4419-4448-9459-6b9f836d9cbd.png)
 
-For me, I am not facing any particular issues at this stage. Just sometimes I feel I still don’t know when to **stop googling** and **ask the questions**.
-But thanks to this opportunity, it teach me to ask for help from a more experienced person and my mentor when I'm stuck, it will save me a lot of time.
+For me, I am not facing any particular issues at this stage. Just sometimes I feel I still don't know when to **stop googling** and **ask the questions**. But thanks to this opportunity, it teach me to ask for help from a more experienced person and my mentor when I'm stuck, it will save me a lot of time.
 
 Everything is going well, I'm learning very interesting new topics related to my field of study it was challenging but with the help and guidance of my mentor, everything become easy.
 
-The bright side of all the struggle and hard work is that we learn and get out of our **comfort zone**. So the advice I can give is to believe in yourself. You’ll learn new things and start gaining confidence gradually.
+The bright side of all the struggle and hard work is that we learn and get out of our **comfort zone**. So the advice I can give is to believe in yourself. You'll learn new things and start gaining confidence gradually.
 
-**To conclude**, all I can say is to **develop the habit of asking for help** when you are stuck. It will save you a lot of time.
-Also, **do not be too hard on yourself**. Make sure to maintain a **healthy lifestyle** and **get some rest** when stressed.
-Sometimes maybe the reason you can’t figure things out is that you are tired or hungry. Lastly, **never doubt yourself**.
-If you can make it this far then you definitely can **accomplish your project**.
+**To conclude**, all I can say is to **develop the habit of asking for help** when you are stuck. It will save you a lot of time. Also, **do not be too hard on yourself**. Make sure to maintain a **healthy lifestyle** and **get some rest** when stressed. Sometimes maybe the reason you can't figure things out is that you are tired or hungry. Lastly, **never doubt yourself**. If you can make it this far then you definitely can **accomplish your project**.
 
 ![struggle](https://user-images.githubusercontent.com/73066984/180396706-6e5e338e-85ff-41a2-903b-55f685777af9.png)
-
 
 **Thanks for reading.** 💫✨
