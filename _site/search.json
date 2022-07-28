@@ -11,14 +11,14 @@
     "href": "posts/welcome/index.html",
     "title": "Welcome To the OSCSA Blog posts",
     "section": "",
-    "text": "Welcome to Open Science community Saudi Arabia (OSCSA) where we add blog posts by our community members. Please feel free to submit new or existing blog posts that discuss Open Science. You are welcome to share articles, stories, and personal experiences through this platform."
+    "text": "CitationBibTeX citation:@misc{oscsa2022,\n  author = {OSCSA},\n  title = {Welcome {To} the {OSCSA} {Blog} Posts},\n  date = {2022-05-30},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nOSCSA. 2022. “Welcome To the OSCSA Blog Posts.” May 30,\n2022."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This is an English blog posts for [Open Science community Saudi Arabia (OSCSA)](https://osc-ksa.com/ar-index.html). OSCSA aims to provide a place where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and provide feedback on policies, infrastructures and support services. Together working to make Open Science the norm in Saudi Arabia and the Middle East. Our community is part of the International Network of Open Science & Scholarship Communities (INOSC)."
+    "text": "This is an English blog posts for Open Science community Saudi Arabia (OSCSA). OSCSA aims to provide a place where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and provide feedback on policies, infrastructures and support services. Together working to make Open Science the norm in Saudi Arabia and the Middle East. Our community is part of the International Network of Open Science & Scholarship Communities (INOSC)."
   },
   {
     "objectID": "posts/Asmaa-intro/index.html",

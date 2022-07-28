@@ -15,4 +15,4 @@ about:
       href: https://github.com
 ---
 
-This is an English blog posts for \[Open Science community Saudi Arabia (OSCSA)\](https://osc-ksa.com/ar-index.html). OSCSA aims to provide a place where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and provide feedback on policies, infrastructures and support services. Together working to make Open Science the norm in Saudi Arabia and the Middle East. Our community is part of the International Network of Open Science & Scholarship Communities (INOSC).
+This is an English blog posts for [Open Science community Saudi Arabia (OSCSA)](https://osc-ksa.com/ar-index.html). OSCSA aims to provide a place where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and provide feedback on policies, infrastructures and support services. Together working to make Open Science the norm in Saudi Arabia and the Middle East. Our community is part of the International Network of Open Science & Scholarship Communities (INOSC).
