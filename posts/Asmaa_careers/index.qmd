@@ -6,14 +6,18 @@ author:
     affiliation: National Engineering School of Sousse (ENISO)
 date: "2022-08-10"
 categories: [outreachy]
-subtitle: "This blog post written by Asma, Outreachy intern in OSCSA about her career goals after Outreachy"
+subtitle: "Another Outreachy blog post!"
+description: |
+  This blog post written by Asma, Outreachy intern in OSCSA about her career goals after Outreachy.
 license: "CC BY"
 toc-title: Table of contents
 toc-location: left
+image: img.png
+
 ---
 
-::: column-page
-![Career-opportunities](https://user-images.githubusercontent.com/73066984/183886321-b41271b9-7e27-490e-8575-797aff924774.png){fig-align="center"}
+:::{.column-page}
+![Career-opportunities](img.png){fig-align="center"}
 :::
 
 *Hi all, hope you all are doing fine!*
