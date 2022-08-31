@@ -13,6 +13,8 @@ license: "CC BY"
 toc-title: Table of contents
 toc-location: left
 image: Outreachy-Internship-Program.png
+citation:
+  url: https://oscsa-en-blog.netlify.app/posts/asmaa-intro/
 ---
 
 ::: column-page

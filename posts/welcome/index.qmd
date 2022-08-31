@@ -6,6 +6,8 @@ categories: [news]
 google-scholar: true
 citation:
   type: post-weblog
+citation:
+  url: https://oscsa-en-blog.netlify.app/posts/welcome/
 ---
 
 Welcome to [Open Science community Saudi Arabia (OSCSA)](https://osc-ksa.com/ar-index.html) where we add blog posts by our community members. Please feel free to submit new or existing blog posts that discuss Open Science. You are welcome to share articles, stories, and personal experiences through this platform.

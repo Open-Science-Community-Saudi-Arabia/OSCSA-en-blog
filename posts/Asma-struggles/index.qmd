@@ -16,6 +16,7 @@ image: struggle.jpeg
 google-scholar: true
 citation:
   type: post-weblog
+  url: https://oscsa-en-blog.netlify.app/posts/asma-struggles/
 ---
 
 ::: column-page
