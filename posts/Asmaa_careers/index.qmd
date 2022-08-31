@@ -1,0 +1,55 @@
+---
+title: "After Outreachy!"
+author:
+  - name: Asma Kacem
+    url: https://asmakacem.me/
+    affiliation: National Engineering School of Sousse (ENISO)
+date: "2022-08-10"
+categories: [outreachy]
+subtitle: "This blog post written by Asma, Outreachy intern in OSCSA about her career goals after Outreachy"
+license: "CC BY"
+toc-title: Table of contents
+toc-location: left
+---
+
+::: column-page
+![Career-opportunities](https://user-images.githubusercontent.com/73066984/183886321-b41271b9-7e27-490e-8575-797aff924774.png){fig-align="center"}
+:::
+
+*Hi all, hope you all are doing fine!*
+
+Welcome to my blog Outreachy series. In this blog post, I will be discussing my career interests because it is time to set **new goals** and decide what to do next.
+
+I am a final year Telecommunications Engineering Student\*\* and currently I'm doing my **Outreachy Internship** working with OSCSA. During my Outreachy internship, I worked on exciting tasks inluding:
+
+-   Localisation of OERs to introduce Open Science Practices for novice learners adding to that writing documentation using Markdown.
+
+-   I also developed my fron-end web development skills by adding new sections at the [OSCSA website](https://osc-ksa.com/).
+
+I am happy to present some of my work in [Write the Docs Prague 2022 Conference](https://www.writethedocs.org/conf/prague/2022/) on the 11th of Sept. All that was done thanks to the help and guidance of my mentor [Batool Almarzouq](https://batool-almarzouq.netlify.app/)!
+
+After Outreachy, I wish to further develop my open science skills and I'll be also looking for an internship for 4 to 6 months that will start in February as a full-stack developer intern.
+
+![](https://user-images.githubusercontent.com/73066984/183893288-137ddd89-6d3d-4b80-941e-46a792e84b3f.png)
+
+My background is in Front-end and Back-end development but I have also been exposed to Cloud Computing and Computer Security. I am good in MERN and MEAN stack thanks to the past internship and to the several projects I mad at university .
+
+I am proficient in *C++* , *python* and somewhat comfortable with *Java*. I participated a lot in competitive programming such as **TCPC**, **IEEExtreme** and [**Leetcode**](https://leetcode.com/Asma_Kacem)
+
+I alos became comfortable with using git, Github and Markdown during Outreachy!
+
+
+I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas, and spreading knowledge and positivity. Also, I love **working in teams** and **contributing to open source projects** where I can gear up my skills and knowledge.
+
+-   **Languages:** Python, C++,C,JAVA ,JavaScript,Bash
+-   **Skills:** NodeJS,Angular,Express.js,MongoDB,ReactJS,MySql,Git/GitHub,Cloud,Markdown
+-   **Soft Skills:** Motivation,Team spirit,Flexibility,Active,Time Management
+
+I speak four languages which are **Arabic** (Native), **English** (Advanced), **French** (Advanced), **Italian** (Beginner)
+
+
+![language](https://user-images.githubusercontent.com/73066984/183892661-f6778542-cb67-40d6-b21e-3bbacacb7618.png)
+
+This concludes my career goals blog. It will be great if you could **share opportunities** where you think I would be a good fit. Feel free to reach out if there's anything you think I could help you out with! You can connect with me on [Twitter](https://twitter.com/Asmakacem9) or [LinkedIn](https://www.linkedin.com/in/asmakacem/) for any opportunities.
+
+Thanks for reading. 💫✨
