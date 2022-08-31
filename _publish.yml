@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: "b094e502-790b-4b44-9239-aefd49175684"
+      url: "https://www.oscsa-en-blog.netlify.app"

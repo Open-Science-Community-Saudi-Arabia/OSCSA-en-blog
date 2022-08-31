@@ -4,6 +4,9 @@ author: "Asmaa Kasim"
 date: "2022-05-30"
 categories: [outreachy]
 draft: true
+google-scholar: true
+citation:
+  type: post-weblog
 ---
 
 Text
