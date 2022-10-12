@@ -23,6 +23,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "okerekechinweotito",
+      "name": "Okereke Chinweotito",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65835404?v=4",
+      "profile": "http://okereke.dev",
+      "contributions": [
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7,
