@@ -31,6 +31,46 @@ h3 {
 
 }*/
 
+/* google translate */
+.goog-logo-link{
+  display:none !important;
+}
+
+.goog-te-gadget{
+  color:transparent!important;
+  /* width: 40px; */
+}
+
+.goog-te-banner-frame{
+  display:none !important;
+}
+
+.nav-link {
+  /* background-color: gold; */
+}
+
+#google_translate_element {
+  /* background-color: red !important; */
+  /* width: 80px; */
+  /* position: relative;
+  top: -7px; */
+}
+
+#google_translate_element .goog-te-gadget {
+  /* background-color: green; */
+  height: 15px;
+}
+
+#google_translate_element .goog-te-combo{
+  width: 55px !important;
+  font-size: 1em;
+  border: 1px solid #ccc;
+}
+
+#google_translate_element .goog-te-combo:focus {
+  border: 1px solid #ccc;
+}
+
 
 @media (min-width: 991.98px) {
 #quarto-header {
