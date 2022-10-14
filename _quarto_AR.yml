@@ -1,6 +1,8 @@
 project:
   type: website
-  output-dir: docs
+   output-dir: ar
+  
+lang: ar
 
 website:
   comments: 
@@ -37,8 +39,8 @@ website:
       - icon: twitter
         href: https://twitter.com/OpenSciSaudi
     left:
-      - text: "ARABIC"
-        href: AR
+      - text: "To English"
+        href: EN
       - text: "Main Website"
         href: https://osc-ksa.com/
       - text: "About"
