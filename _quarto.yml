@@ -32,13 +32,13 @@ website:
     logo: logo3.png
     title: false
     right:
+      - text: "عربي"
+        href: AR
       - icon: github
         href: https://github.com/Open-Science-Community-Saudi-Arabia
       - icon: twitter
         href: https://twitter.com/OpenSciSaudi
     left:
-      - text: "ARABIC"
-        href: AR
       - text: "Main Website"
         href: https://osc-ksa.com/
       - text: "About"
