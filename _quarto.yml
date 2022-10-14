@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   comments: 
@@ -31,6 +32,8 @@ website:
     logo: logo3.png
     title: false
     right:
+      - text: "عربي"
+        href: AR
       - icon: github
         href: https://github.com/Open-Science-Community-Saudi-Arabia
       - icon: twitter
