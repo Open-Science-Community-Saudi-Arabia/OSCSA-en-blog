@@ -1,5 +1,5 @@
 ---
-title: "Everyone Struggles!"
+title: "This is a test"
 author:
   - name: Asma Kacem
     url: https://asmakacem.me/
