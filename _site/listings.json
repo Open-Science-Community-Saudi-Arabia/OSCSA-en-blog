@@ -2,10 +2,13 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/Internship wrap-up/index.html",
       "/posts/Asmaa_careers/index.html",
       "/posts/Asma-struggles/index.html",
+      "/posts/Asma-struggles2/index.html",
       "/posts/Asmaa-intro/index.html",
-      "/posts/welcome/index.html"
+      "/posts/welcome/index.html",
+      "/posts/welcome2/index.html"
     ]
   }
 ]
