@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  comments: 
+  comments:
     hypothesis:
       theme: clean
       openSidebar: false
@@ -48,3 +48,6 @@ format:
     code-copy: true
     code-overflow: wrap
     css: styles.css
+
+execute:
+  freeze: auto
