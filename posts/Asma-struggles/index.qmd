@@ -1,5 +1,5 @@
 ---
-title: "Everyone Struggles!!!!!!!!"
+title: "This works !"
 author:
   - name: Asma Kacem
     url: https://asmakacem.me/
