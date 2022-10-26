@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-0.9.339">
+<meta name="generator" content="quarto-1.1.251">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -14,29 +14,35 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 </style>
+
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="../../site_libs/quarto-nav/headroom.min.js"></script>
 <script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<meta name="quarto:offset" content="../../">
 <script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
 <link href="../../favicon.png" rel="icon" type="image/png">
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link id="quarto-text-highlighting-styles" href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,10 +74,12 @@ ul.task-list{list-style: none;}
 <link rel="stylesheet" href="../../styles.css">
 <meta name="citation_title" content="Everyone Struggles!">
 <meta name="citation_author" content="Asma Kacem">
+<meta name="citation_publication_date" content="2022-07-22">
+<meta name="citation_cover_date" content="2022-07-22">
+<meta name="citation_year" content="2022">
 <meta name="citation_online_date" content="2022-07-22">
 <meta name="citation_fulltext_html_url" content="https://oscsa-en-blog.netlify.app/posts/asma-struggles/">
-<meta name="citation_publication_date" content="2022-07-22">
-<meta name="citation_journal_title" content="undefined">
+<meta name="citation_language" content="en">
 </head>
 
 <body class="floating nav-fixed">
@@ -80,9 +88,11 @@ ul.task-list{list-style: none;}
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <a class="navbar-brand" href="../../index.html">
-    <img src="../../logo3.png" alt="">
-  </a>
+      <div class="navbar-brand-container">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../logo3.png" alt="" class="navbar-logo">
+    </a>
+  </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
@@ -96,6 +106,9 @@ ul.task-list{list-style: none;}
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../ar/">عربي</a>
+  </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/Open-Science-Community-Saudi-Arabia"><i class="bi bi-github" role="img">
 </i> 
@@ -118,18 +131,17 @@ ul.task-list{list-style: none;}
     <div class="quarto-title column-body">
       <h1 class="title">Everyone Struggles!</h1>
             <p class="subtitle lead">Everyone Struggles</p>
+                  <div>
+        <div class="description">
+          <p>This post is about struggling in learning about Open Science during Outreachy intership and how to deal with it.</p>
+        </div>
+      </div>
                           <div class="quarto-categories">
                 <div class="quarto-category">outreachy</div>
               </div>
                   </div>
   </div>
     
-  <div>
-    <div class="description">
-      <p>This post is about struggling in learning about Open Science during Outreachy intership and how to deal with it.</p>
-    </div>
-  </div>
-
   <div class="quarto-title-meta-author">
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-heading">Affiliation</div>
@@ -143,8 +155,6 @@ ul.task-list{list-style: none;}
             </p>
         </div>
       </div>
-
-
 
   <div class="quarto-title-meta">
 
@@ -162,7 +172,7 @@ ul.task-list{list-style: none;}
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
-    <nav id="TOC" role="doc-toc">
+    <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
@@ -192,7 +202,7 @@ ul.task-list{list-style: none;}
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://user-images.githubusercontent.com/73066984/180395131-4b72f48f-4419-4448-9459-6b9f836d9cbd.png" class="img-fluid figure-img"></p>
-<p></p><figcaption aria-hidden="true" class="figure-caption">strug</figcaption><p></p>
+<p></p><figcaption class="figure-caption">strug</figcaption><p></p>
 </figure>
 </div>
 <p>For me, I am not facing any particular issues at this stage. Just sometimes I feel I still don’t know when to <strong>stop googling</strong> and <strong>ask the questions</strong>. But thanks to this opportunity, it teach me to ask for help from a more experienced person and my mentor when I’m stuck, it will save me a lot of time.</p>
@@ -202,7 +212,7 @@ ul.task-list{list-style: none;}
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://user-images.githubusercontent.com/73066984/180396706-6e5e338e-85ff-41a2-903b-55f685777af9.png" class="img-fluid figure-img"></p>
-<p></p><figcaption aria-hidden="true" class="figure-caption">struggle</figcaption><p></p>
+<p></p><figcaption class="figure-caption">struggle</figcaption><p></p>
 </figure>
 </div>
 <p><strong>Thanks for reading.</strong> 💫✨</p>
@@ -212,6 +222,7 @@ ul.task-list{list-style: none;}
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div quarto-reuse="quarto-reuse" class="quarto-appendix-contents"><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{kacem2022,
   author = {Asma Kacem},
+  editor = {},
   title = {Everyone {Struggles!}},
   date = {2022-07-22},
   url = {https://oscsa-en-blog.netlify.app/posts/asma-struggles/},
@@ -222,6 +233,24 @@ Asma Kacem. 2022. <span>“Everyone Struggles!”</span> July 22, 2022. <a href=
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
@@ -271,7 +300,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
