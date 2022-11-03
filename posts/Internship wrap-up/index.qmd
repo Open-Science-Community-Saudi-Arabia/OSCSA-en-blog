@@ -1,0 +1,50 @@
+---
+title: "Internship wrap-up!"
+author:
+  - name: Asma Kacem
+    url: https://asmakacem.me/
+    affiliation: National Engineering School of Sousse (ENISO)
+date: "2022-09-05"
+categories: [outreachy]
+subtitle: "Another Outreachy blog post!"
+description: |
+  This blog post written by Asma, Outreachy intern in OSCSA about her Internship wrap-up.
+license: "CC BY"
+toc-title: Table of contents
+toc-location: left
+citation:
+  url: https://oscsa-en-blog.netlify.app/posts/Internship wrap-up/
+---
+
+:::{.column-page}
+![summer-internship-webcreatify](https://user-images.githubusercontent.com/73066984/188337507-e520a2ab-b66f-4176-b521-7eca2c0e6d16.jpg){fig-align="center"}
+:::
+
+*Hi all, hope you all are doing fine!*
+
+Welcome to my blog Outreachy series.My Outreachy internship ended, it’s 3 months already, I’m excited to be completing my internship with the **Open Science community Saudi Arabia**.
+
+The past three months have been filled with *immense growth* and *positivity for me*, fair to say it has been a *life-changing experience*. I still can’t forget the day I received the e-mail about being selected as an *Outreachy intern*, it was one of the best days 
+
+ During my Outreachy internship,  I worked on exciting tasks inluding:
+ 
+ -    Localisation of OERs to introduce Open Science Practices for novice learners adding to that writing documentation using Markdown and writing Blogs to document my internship journey to encourage others. 
+
+ -    I also developed my fron-end web development skills by adding new sections at the [OSCSA website](https://osc-ksa.com/).
+
+ -    Adding to that, I participated in [Write the Docs Prague 2022 Conference](https://www.writethedocs.org/conf/prague/2022/) that will happen on the 11th of Sept with **Melissa Black** and all that was done thanks to the help of **the turing way community** and especially my mentor **Batool Almarzouq**!
+
+
+It’s been an experience that I would recommend to anyone who wants to step into contributing to **open source**. It was very *rewarding personally* and also about the *progress of my skills and confidence*.
+
+Outreachy as an experience will stay close to my heart forever,it's a great journey interacting and getting to know the **Open Science community Saudi Arabia** and **Turing Way community** virtually. Overall, I would say my internship has been a success because I was able to *gain practical skills*, *work in a fantastic environment* that is really inclusive, and *make connections* that will last a lifetime. I could not be more thankful.
+
+And finally, again I would like to thank my mentor Batool Almarzouq,the Open Science community Saudi Arabia and Turing Way community I got to learn many new things from them.
+
+![Thank-you-so-much](https://user-images.githubusercontent.com/73066984/188339240-4432f202-0d15-4042-9650-c7b9db62a1b2.jpg)
+
+This is *NOT a goodbye*, because I am still going to continue **contributing to this community**😊.
+
+You can connect with me on [Twitter](https://twitter.com/Asmakacem9), [LinkedIn](https://www.linkedin.com/in/asmakacem/)
+
+Thanks for reading. 💫✨
