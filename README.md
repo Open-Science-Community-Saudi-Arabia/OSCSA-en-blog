@@ -7,13 +7,13 @@
 OSCSA English blog (https://oscsa-en-blog.netlify.app/)
 
 ## Add New Blog Post for Outreachy:
-- Fork the repo intern
-- Navigate to `posts` and then to the folder where you'll add your post
-- There remplate created called `index.qmd` which you should add your text/images using Markdown to it.
-- If you want to add image, make sure you add it to the same folder which `index.qmd` is in
-- Remove `draft: true`
-- Run frm the command line `quarto preview` to preview your post
-- Submit you PR
+- Fork the repo intern.
+- Navigate to `posts` and then to the folder where you'll add your post.
+- There is a template called `index.qmd` where you should add your text/images using Markdown syntax.
+- If you want to add an image, make sure you add it to the same folder which `index.qmd` is in.
+- Remove `draft: true`. 
+- Run `quarto preview` in your command line to preview your post.
+- Submit your PR.
 
 ## Contributors ✨
 
