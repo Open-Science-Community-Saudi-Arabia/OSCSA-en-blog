@@ -32,6 +32,7 @@ h3 {
 }*/
 
 
+
 @media (min-width: 991.98px) {
 #quarto-header {
   border-bottom: 1px solid #dee2e6;
@@ -149,7 +150,6 @@ iframe.reveal-demo {
   margin-bottom: 20px;
   margin-right: 35px;
 }
-
 }
 
 @media (min-width: 576px) { 
@@ -163,8 +163,6 @@ iframe.reveal-demo {
   width: 190px;
   margin: 0 20px 12px 0;
 }
-
-
 }
 
 
@@ -248,3 +246,33 @@ iframe.reveal-demo {
   border: none;
 }
 
+body{
+  font-family: 'Kufam', sans-serif;
+}
+
+.nav-footer{
+  display: flex;
+  background: #0d2842;
+}
+.footer li a{
+  color: white;
+}
+
+h1 {
+  font-family: 'Kufam', sans-serif;
+  font-weight: 500;
+  color: #0638a5;
+}
+
+.about-link:hover{
+  background-color: #236305;
+  color: white !important;
+  border: 10px;
+}
+
+.about-link{
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  
+}
