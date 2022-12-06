@@ -30,7 +30,17 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/65835404?v=4",
       "profile": "http://okereke.dev",
       "contributions": [
-        "infra"
+        "infra",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "Odion-Sonny",
+      "name": "Odion Sonny-Egbeahie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99491084?v=4",
+      "profile": "http://odion.hashnode.dev",
+      "contributions": [
+        "doc"
       ]
     }
   ],
