@@ -33,5 +33,19 @@
     "title": "About",
     "section": "",
     "text": "This is an English blog posts for Open Science community Saudi Arabia (OSCSA). OSCSA aims to provide a place where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and provide feedback on policies, infrastructures and support services. Together working to make Open Science the norm in Saudi Arabia and the Middle East. Our community is part of the International Network of Open Science & Scholarship Communities (INOSC)."
+  },
+  {
+    "objectID": "posts/Richie-intro/index.html",
+    "href": "posts/Richie-intro/index.html",
+    "title": "Introducing myself",
+    "section": "",
+    "text": "My name is Richie and I am a 2022 Outreachy intern. I am currently studying Mechanical Engineering at the University of Benin, Benin City, Nigeria. I am really happy to intern with the Open Science Community Saudi Arabia project. As time goes on i will be sharing my experience and what I have learnt so far.\nI love to learn, share, and discuss a wide range of topics. I am ambitious, and driven individual who is always looking for new ways to challenge yourself and improve. I have a passion for learning and i’m always seeking out new opportunities to grow and develop my skills.\n\n\n\n\n\nAside coding, i enjoy solving puzzles and taking on tasks that seem difficult, i believe nothing is actually difficult. In my opinion, tasks only seem difficult is you lack the undelying foundational knowledge. Most times, most of what we call “difficult” are basically blocks of knowledge stacked together, with each block having interconnected chains to different foundational basic knowledge. Learing new things only take time and patience. I am a very patient person and i am always willing to learn new things. I am also a very creative person, i love to think outside the box and i am always looking for new ways to solve problems.\nI am a very friendly person and i love to meet new people. I am also a very open minded person, i am always willing to listen to other people’s opinions and i am always willing to learn new things. I am also a very patient person, i am always willing to learn new things and i am always willing to learn new things.\nI look forward to getting to make valuable connections and impact others positively.\nThanks again for joining me\n\n\n\nCitationBibTeX citation:@online{moluno2022,\n  author = {Richie Moluno},\n  title = {Introducing Myself},\n  date = {2022-12-06},\n  url = {https://oscsa-en-blog.netlify.app/posts/richie-intro/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRichie Moluno. 2022. “Introducing Myself.” December 6,\n2022. https://oscsa-en-blog.netlify.app/posts/richie-intro/."
+  },
+  {
+    "objectID": "posts/Richie-intro/index.html#my-first-day-with-outreachy",
+    "href": "posts/Richie-intro/index.html#my-first-day-with-outreachy",
+    "title": "Introducing myself",
+    "section": "My first day with Outreachy",
+    "text": "My first day with Outreachy"
   }
 ]
