@@ -1,0 +1,31 @@
+---
+title: "Introducing myself"
+author:
+    name: "Richie Moluno"
+    email: "molunorichie@gmail.com"
+    affiliation: "University of Benin, Nigeria"
+    affiliation_url: "https://www.uniben.edu/"
+    github: "https://github.io/RealRichi3"
+date: "2022-12-06"
+description: "This is a blog post about my first day with Outreachy. I will be sharing my experience and what I have learnt so far."
+categories: ["Outreachy"]
+citation:
+    url: "https://oscsa-en-blog.netlify.app/posts/richie-intro/"
+---
+
+![](./welcome.webp){width=100% height=60%}
+
+My name is Richie and I am a 2022 Outreachy intern.  I am currently studying Mechanical Engineering at the University of Benin, Benin City, Nigeria. I am really happy to intern with the [Open Science Community Saudi Arabia](https://osc-ksa.com/) project. As time goes on i will be sharing my experience and what I have learnt so far.
+
+I love to learn, share, and discuss a wide range of topics. I am ambitious, and driven individual who is always looking for new ways to challenge yourself and improve. I have a passion for learning and i'm always seeking out new opportunities to grow and develop my skills.
+
+![](./puzzle.jpg){width=80% height=60% fig-align="center"}
+
+Aside coding, i enjoy solving puzzles and taking on tasks that seem difficult, i believe nothing is actually difficult. In my opinion, tasks only seem difficult is you lack the undelying foundational knowledge. Most times, most of what we call "difficult" are basically blocks of knowledge stacked together, with each block having interconnected chains to different foundational basic knowledge. Learing new things only take time and patience. I am a very patient person and i am always willing to learn new things. I am also a very creative person, i love to think outside the box and i am always looking for new ways to solve problems.
+
+I am a very friendly person and i love to meet new people. I am also a very open minded person, i am always willing to listen to other people's opinions and i am always willing to learn new things. I am also a very patient person, i am always willing to learn new things and i am always willing to learn new things.
+
+I look forward to getting to make valuable connections and impact others positively.
+
+**Thanks again for joining me**
+
