@@ -2,15 +2,18 @@
 title: "Introducing myself"
 author:
     name: "Richie Moluno"
-    email: "molunorichie@gmail.com"
-    affiliation: "University of Benin, Nigeria"
-    affiliation_url: "https://www.uniben.edu/"
+    affiliation: "https://www.uniben.edu/"
+    url: https://realrichi3.github.io/
     github: "https://github.io/RealRichi3"
 date: "2022-12-06"
-description: "This is a blog post about my first day with Outreachy. I will be sharing my experience and what I have learnt so far."
 categories: ["Outreachy"]
+description: "This is a blog post about my first day with Outreachy. I will be sharing my experience and what I have learnt so far."
+license: "CC BY"
+toc-title: Table of contents
+toc-location: left
+image: Outreachy-Internship-Program.png
 citation:
-    url: "https://oscsa-en-blog.netlify.app/posts/richie-intro/"
+    url: https://oscsa-en-blog.netlify.app/posts/richie-intro/
 ---
 
 ![](./welcome.webp){width=100% height=60%}
