@@ -16,7 +16,9 @@ citation:
     url: https://oscsa-en-blog.netlify.app/posts/richie-intro/
 ---
 
+::: column-page
 ![](./welcome.webp){width=100% height=60%}
+:::
 
 My name is Richie and I am a 2022 Outreachy intern.  I am currently studying Mechanical Engineering at the University of Benin, Benin City, Nigeria. I am really happy to intern with the [Open Science Community Saudi Arabia](https://osc-ksa.com/) project. As time goes on i will be sharing my experience and what I have learnt so far.
 
