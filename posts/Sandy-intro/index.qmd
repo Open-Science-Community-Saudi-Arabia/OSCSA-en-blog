@@ -1,0 +1,26 @@
+---
+title: "Hello Outreachy!"
+author:
+  - name: Goodnews Sandy 
+    url: https://goodnewssandy.netlify.app/
+date: "2022-12-06"
+categories: [outreachy]
+description: |
+ I am excited to be contributing to the Open Science Community Saudi Arabia (OSCSA) as an outreachy intern. I will be sharing a brief intro about me.
+license: "CC BY"
+toc-title: Table of contents
+toc-location: left
+image: outreachy-image.png
+citation:
+  url: https://oscsa-en-blog.netlify.app/posts/Sandy_intro
+---
+::: column-page
+![](outreachy-image.png){fig-align="center"}
+:::
+ My name is Goodnews Sandy, i am a frontend developer and a technical writer.  I enjoy building web-based applications that leaves lasting impression on users using various frontend technologies.  i love contributing to open source. My hobbies: sports and reading 
+
+I am contributing to the OSCSA Community through outreachy internship  and  i am excited about the things i will be learning in the community. i believe the knowledge from this experience would be an added value to my skillset and career progression in general.
+
+I will be sharing my progress and experience from time to time, So..Let's do this!!
+
+Gracais!
