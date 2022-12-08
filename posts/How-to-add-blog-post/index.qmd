@@ -1,0 +1,22 @@
+---
+title: "How to add a blog post using Quarto"
+author: 
+    name: "Richie Moluno, Goodnews Sandygudie"
+date: "2022-12-08"
+categories: 
+    - "blog"
+    - "quarto"
+    - "Outreachy"
+description: "This is a tutorial on how to add a blog post to the OSCA blog using Quarto."
+licence: "CC BY"
+type: "post"
+image: "./quarto.png"
+citation: 
+    url: https://oscsa.netlify.app/posta/how-to-add-a-blog-post/
+---
+
+# How to add a blog post using Quarto
+
+## Introduction
+
+
