@@ -12,6 +12,7 @@ Please complete the following sections when you submit your pull request. You ar
 ### Checklists:
 For submitting a pull request for a blog post, 
 - [ ]  The title of the PR starts with [blog]:[name of the blog]
+- [ ]  The pull request has a description.
 - [ ]  Images and thumbnail is added to the blog post
 - [ ]  Your affiliation and name are added
 - [ ]  The blog post is added to /posts
