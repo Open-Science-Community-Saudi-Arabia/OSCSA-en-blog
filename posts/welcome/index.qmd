@@ -4,8 +4,8 @@ author: "OSCSA"
 date: "2022-05-30"
 categories: [news]
 google-scholar: true
-citation:
-  type: post-weblog
+# citation:
+#   type: post-weblog
 citation:
   url: https://oscsa-en-blog.netlify.app/posts/welcome/
 ---
