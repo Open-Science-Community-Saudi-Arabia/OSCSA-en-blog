@@ -12,8 +12,8 @@ licence: "CC BY"
 type: "post"
 image: "./quarto.png"
 citation: 
-    url: https://oscsa.netlify.app/posta/how-to-add-a-blog-post/
-site-url: https://oscsa.netlify.app/posta/how-to-add-a-blog-post/
+    url: https://oscsa.netlify.app/posts/how-to-add-a-blog-post/
+site-url: https://oscsa.netlify.app/posts/how-to-add-a-blog-post/
 # format: 
 #     html: 
 #         toc: true
@@ -94,7 +94,7 @@ licence: "CC BY"
 type: "post"
 image: "./quarto.png"
 citation: 
-    url: https://oscsa.netlify.app/posta/my-first-blog-post/
+    url: https://oscsa.netlify.app/posts/my-first-blog-post/
 ---
 ```
 
@@ -112,6 +112,14 @@ The front matter is a set of metadata that is used to describe the blog post. It
 
 ##### Step 4
 After the front matter, you can start writing your blog post using the Quarto syntax. For example, you can use # characters to create headings, - or * characters to create bullet points, and > characters to create block quotes.
+
+Note: If you dont know how to write a blog post using the Quarto syntax, you can check out the [Quarto documentation](https://quarto.org/docs/get-started/) for more information.
+If you dont want the blog post to be published immediately, you can add the following field to the front matter:
+
+```yaml
+draft: true
+```
+
 
 ##### Step 5
 Once you have finished writing your blog post, you can save the file and commit your changes to your local repository. You can do this by running the following commands in your terminal:
