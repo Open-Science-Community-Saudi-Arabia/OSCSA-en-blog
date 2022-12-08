@@ -13,10 +13,75 @@ type: "post"
 image: "./quarto.png"
 citation: 
     url: https://oscsa.netlify.app/posta/how-to-add-a-blog-post/
+site-url: https://oscsa.netlify.app/posta/how-to-add-a-blog-post/
+# format: 
+#     html: 
+#         toc: true
+#         css: 
+#             - "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css"
+#             - "https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/3.0.1/github-markdown.min.css"
+#             - "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css"
+#         embed-resources: true
 ---
+
+## What is Quarto?
+Quarto is a new open source project that aims to make it easier for people to create and publish blog posts. It is a static site generator that uses the Markdown syntax to create blog posts. Quarto is written in the R programming language and is available for download on GitHub.
+
+## Get started
+#### Install Quarto
+To install quarto on your computer, you can download the latest version of R from the R Project website. Once you have installed R, you can install the quarto package using the following command: 
+    
+```r
+install.packages("quarto")
+```
+
+Alternatively, you can install quarto from the command line using the following command:
+
+```bash
+Rscript -e "install.packages('quarto')"
+```
+
+or Download the latest version from the [Quarto](https://quarto.org/docs/get-started/) website.
+
+After installing quarto, you can pick a preferred editor of your choice. Some popular editors include RStudio, Atom, and Visual Studio Code. You can also use any text editor or word processor that supports the Markdown syntax.
+
+You can download the latest version of these editors here.
+
+-  Vscode from the [Vscode](https://code.visualstudio.com/) website.
+-  RStudio from the [RStudio](https://rstudio.com/) website.
+-  Atom from the [Atom](https://atom.io/) website.
+
+#### Setup Local environment
+1.  To get started, you will need to fork and clone the OSCA blog repository from GitHub. You can do this by running the following command in your terminal:
+```bash
+git clone https://github.com/Open-Science-Community-Saudi-Arabia/OSCSA-en-blog
+```
+
+2. Next create a new branch for your blog post using the following command:
+```bash
+git checkout -b <branch-name>
+```
+
+3. Navigate to the `posts` folder and create a new folder with the name of your blog post. For example, if you are writing a blog post about how to add a blog post using Quarto, you can name your folder `how-to-add-a-blog-post-using-quarto`.
+
+#### Create a new blog post
+
+To create a blog post using Quarto, you would need to first create a Markdown file using the Quarto syntax. Markdown is a simple markup language that is often used to format text on the web. The Quarto syntax extends the basic Markdown syntax with additional features and functionality, such as the ability to add columns, tables, and other advanced formatting options.
+
+To create a new Markdown file using Quarto, you can use any text editor or word processor that supports the Markdown syntax. In your file, you can use Quarto syntax to add formatting and structure to your blog post. For example, you can use # characters to create headings, - or * characters to create bullet points, and > characters to create block quotes.
+
+Once you have created your Markdown file using Quarto syntax, you can save it with a .md file extension and use it to create a blog post on any platform that supports Markdown. Some popular platforms for publishing blog posts include WordPress, Blogger, and Tumblr. You can also use a static site generator, such as Jekyll or Hugo, to convert your Markdown file into a standalone HTML webpage that you can host on your own website.
+
+I hope this helps! Let me know if you have any other questions.
+
 
 # How to add a blog post using Quarto
 
-## Introduction
+To create a blog post using Quarto, you would need to first create a Markdown file using the Quarto syntax. Markdown is a simple markup language that is often used to format text on the web. The Quarto syntax extends the basic Markdown syntax with additional features and functionality, such as the ability to add columns, tables, and other advanced formatting options.
 
+To create a new Markdown file using Quarto, you can use any text editor or word processor that supports the Markdown syntax. In your file, you can use Quarto syntax to add formatting and structure to your blog post. For example, you can use # characters to create headings, - or * characters to create bullet points, and > characters to create block quotes.
+
+Once you have created your Markdown file using Quarto syntax, you can save it with a .md file extension and use it to create a blog post on any platform that supports Markdown. Some popular platforms for publishing blog posts include WordPress, Blogger, and Tumblr. You can also use a static site generator, such as Jekyll or Hugo, to convert your Markdown file into a standalone HTML webpage that you can host on your own website.
+
+I hope this helps! Let me know if you have any other questions.
 
