@@ -1,5 +1,5 @@
 ---
-title: "Hello Outreachy!"
+title: "Hello Outreachy Winter 2023!"
 author:
   - name: Goodnews Sandy 
     url: https://goodnewssandy.netlify.app/
@@ -17,10 +17,10 @@ citation:
 ::: column-page
 ![](outreachy-image.png){fig-align="center"}
 :::
- My name is Goodnews Sandy, i am a frontend developer and a technical writer.  I enjoy building web-based applications that leaves lasting impression on users using various frontend technologies.  i love contributing to open source. My hobbies: sports and reading 
+ My name is Goodnews Sandy, I am a Frontend Developer and a Technical Writer. I enjoy building web-based applications that leave a lasting impressions on users using various frontend technologies.  I write to consolidate my knowledge and also share with others.  I love contributing to open source and my hobbies: sports and reading. 
 
-I am contributing to the OSCSA Community through outreachy internship  and  i am excited about the things i will be learning in the community. i believe the knowledge from this experience would be an added value to my skillset and career progression in general.
+Congratulations to me!! I have been selected to participate in the [Outreachy 2023 Internship](https://www.outreachy.org/) and I will be contributing to the [Open Science Community Saudi Arabia (OSCSA)](https://osc-ksa.com/). The Outreachy Internship is a three months program to contribute to any open source community of your choice. For the selection period, I contributed to improving the Open Science Community Saudi Arabia (OSCSA) website and also colloborated in developing a Massive Open Online Courses(MOOCs) platform. The mentors were super helful and I enjoyed contributing to the community.
 
-I will be sharing my progress and experience from time to time, So..Let's do this!!
+The Open Science Community Saudi Arabia (OSCSA) is a huge community in Open Science and I am excited about the things I will be learning during the internship period. I look forward to learning with the community and I intend to maximize all the opportunities available to me. I believe the knowledge from this experience would be an added value to my skill sets and career progression in general. 
 
-Gracais!
+Alright Let's do this!!!
