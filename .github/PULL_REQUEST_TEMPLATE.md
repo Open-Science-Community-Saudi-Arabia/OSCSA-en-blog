@@ -9,7 +9,7 @@ Please complete the following sections when you submit your pull request. You ar
 *Lorem ipsum dolor sit amet, consectetur adipiscing.*
 
 <!-- Checklist the requirement for blog post Pull Request -->
-### Checklists:
+## Checklists:
 For submitting a pull request for a blog post, 
 - [ ]  The title of the PR starts with [blog]:[name of the blog]
 - [ ]  The pull request has a description.
