@@ -10,6 +10,10 @@ categories:
 description: "This is a tutorial on how to add a blog post to the OSCA blog using Quarto."
 licence: "CC BY"
 type: "post"
+toc-title: "Table of Contents"
+toc-location: right
+toc-depth: 3
+toc: true
 image: "./quarto.png"
 citation: 
     url: https://oscsa.netlify.app/posts/how-to-add-a-blog-post/
