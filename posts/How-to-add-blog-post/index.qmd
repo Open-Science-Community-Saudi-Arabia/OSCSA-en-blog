@@ -51,6 +51,8 @@ You can download the latest version of these editors here.
 -  RStudio from the [RStudio](https://rstudio.com/) website.
 -  Atom from the [Atom](https://atom.io/) website.
 
+#
+
 ### Setup Local environment
 ##### Step 1
 To get started, you will need to fork and clone the OSCA blog repository from GitHub. You can do this by running the following command in your terminal:
@@ -64,6 +66,7 @@ Next create a new branch for your blog post using the following command:
 git checkout -b <branch-name>
 ```
 
+#
 
 ### Create a new blog post
 To create a blog post using Quarto, you would need to first create a Markdown file using the Quarto syntax. Markdown is a simple markup language that is often used to format text on the web. The Quarto syntax extends the basic Markdown syntax with additional features and functionality, such as the ability to add columns, tables, and other advanced formatting options.
@@ -95,7 +98,7 @@ citation:
 ---
 ```
 
-The front matter is a set of metadata that is used to describe the blog post. It is written in YAML format and is enclosed in three dashes. The front matter contains the following fields:
+The front matter is a set of metadata that is used to describe the blog post. It is written in YAML format and is enclosed in three dashes. The front matter contains the following fields.
 
 -  `title`: The title of your blog post.
 -  `author`: The name of the author of the blog post.
@@ -106,6 +109,60 @@ The front matter is a set of metadata that is used to describe the blog post. It
 -  `type`: The type of blog post. This can be either a post or a page.
 -  `image`: The image that will be used as the featured image for the blog post.
 -  `citation`: The citation for the blog post.
+
+##### Step 4
+After the front matter, you can start writing your blog post using the Quarto syntax. For example, you can use # characters to create headings, - or * characters to create bullet points, and > characters to create block quotes.
+
+##### Step 5
+Once you have finished writing your blog post, you can save the file and commit your changes to your local repository. You can do this by running the following commands in your terminal:
+
+```bash
+git add .
+git commit -m "Add my first blog post using Quarto"
+git push origin <branch-name>
+```
+
+##### Step 6
+Next, you will need to create a pull request to merge your changes to the main branch. You can do this by navigating to the GitHub repository and clicking on the `New pull request` button.
+
+##### Step 7
+Once you have created a pull request, you can wait for your changes to be reviewed and merged to the main branch.
+
+#
+
+### Preview your blog post
+To preview your blog post, you can run the following command in your terminal:
+
+```bash
+quarto serve
+```
+
+This will start a local server that will host your blog post. You can then navigate to the URL that is displayed in your terminal to preview your blog post.
+
+#
+
+### Publish your blog post
+To publish your blog post, you can run the following command in your terminal:
+
+```bash
+quarto render
+```
+
+This will render your blog post and save it as an HTML file. You can then upload the HTML file to any platform that supports HTML files.
+
+#
+
+### Conclusion
+In this tutorial, we learned how to create a blog post using Quarto. We started by installing Quarto and setting up our local environment. We then created a new blog post using the Quarto syntax and previewed it using the Quarto serve command. Finally, we published our blog post using the Quarto render command.
+
+#
+
+### References
+-  [Quarto](https://quarto.org/)
+-  [Markdown](https://en.wikipedia.org/wiki/Markdown)
+-  [YAML](https://en.wikipedia.org/wiki/YAML)
+
+
 
 
 <!-- To create a blog post using Quarto, you would need to first create a Markdown file using the Quarto syntax. Markdown is a simple markup language that is often used to format text on the web. The Quarto syntax extends the basic Markdown syntax with additional features and functionality, such as the ability to add columns, tables, and other advanced formatting options.
