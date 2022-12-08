@@ -6,7 +6,6 @@ categories: [news]
 google-scholar: true
 citation:
   type: post-weblog
-citation:
   url: https://oscsa-en-blog.netlify.app/posts/welcome/
 ---
 
