@@ -24,6 +24,12 @@ site-url: https://oscsa.netlify.app/posts/how-to-add-a-blog-post/
 #         embed-resources: true
 ---
 
+#
+
+![](./quarto.png){fig-align="center" width="500" fig-caption="Quarto logo"}
+
+#
+
 ## What is Quarto?
 Quarto is a new open source project that aims to make it easier for people to create and publish blog posts. It is a static site generator that uses the Markdown syntax to create blog posts. Quarto is written in the R programming language and is available for download on GitHub.
 
