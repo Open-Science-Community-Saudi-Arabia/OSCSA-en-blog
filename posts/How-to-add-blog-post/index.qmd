@@ -53,15 +53,17 @@ To Download the latest version of quarto visit the [Quarto](https://quarto.org/d
 #
 
 ### Setup Local environment
-##### Step 1
+#### Step 1
 To get started, you will need to fork the OSCA blog repository from GitHub.
-![](./1_create_fork.png){fig-align="center" width="400" }
+![](./1_create_fork.png){fig-align="center" width="100%" }
 
-##### Step 2
+#
+
+#### Step 2
 Next create a new branch for your blog post using the following command, the branch should be created on your forked repository.
 
 1. To create the new branch, navigate to your forked repository.
-2. Under the repository name, click on the drop down menu and select the new branch option.
+2. Under the repository name, click on the drop down menu and select the `View all branches` option.
 ![](./new_branch1.png){fig-align="center" width="400"}
 3. Click the `New branch` button.
 4. Enter the name of your new branch and click the `Create branch` button.
@@ -76,15 +78,28 @@ To create a blog post using Quarto, you would need to first create a Markdown fi
 
 For this tutorial, we won't be building a blog from scratch. Instead, we will be adding new posts to the OSCA blog using Quarto.
 
-##### Step 1
-Navigate to the `posts` folder and create a new folder with the name of your blog post. For example, if you are writing a blog post about how to add a blog post using Quarto, you can name your folder.`how-to-add-a-blog-post-using-quarto`.
+#### Step 1
+i. Switch to the branch that you created in the previous step.
 
-##### Step2
-Navigate to the new folder and create a new `index.md` file. This is where you will write your blog post using the Quarto syntax.
+ii. Navigate to the `posts` folder and create a new folder with the name of your blog post. For example, if you are writing a blog post about how to add a blog post using Quarto, you can name your folder.`how-to-add-a-blog-post-using-quarto`.
+
+![](./create_new_file.png){fig-align="center" width="80%" }
+
+iii. Type the name of the folder followed by a forward slash `/`. This would create a subfolder in the `posts` folder. The folder name should be in lowercase and should not contain any spaces. Instead, use hyphens to separate words.
+![](./create_new_file1.png){fig-align="center" width="100%"}
+
+#### Step2
+You'll need a new `index.md` file. This is where you will write your blog post using the Quarto syntax.
+i. Add the name of the file that you want to create. For example, if you want to create a file named `index.md`, type `index.md` 
+![](./create_new_file2.png){fig-align="center" width="100%"}
+
+ii. Press the `Commit new file` button to create the new folder and file.
+![](./create_new_file3.png){fig-align="center" width="100%"}
+
 
 The Quarto syntax is a simple markup language that is often used to format text on the web. The Quarto syntax extends the basic Markdown syntax with additional features and functionality, such as the ability to add columns, tables, and other advanced formatting options.
 
-##### Step 3
+#### Step 3
 The index.md file should contain the following front matter:
 
 ```yaml
@@ -114,7 +129,7 @@ The front matter is a set of metadata that is used to describe the blog post. It
 -  `image`: The image that will be used as the featured image for the blog post.
 -  `citation`: The citation for the blog post.
 
-##### Step 4
+#### Step 4
 After the front matter, you can start writing your blog post using the Quarto syntax. For example, you can use # characters to create headings, - or * characters to create bullet points, and > characters to create block quotes.
 
 Note: If you dont know how to write a blog post using the Quarto syntax, you can check out the [Quarto documentation](https://quarto.org/docs/get-started/) for more information.
@@ -125,7 +140,7 @@ draft: true
 ```
 
 
-##### Step 5
+#### Step 5
 Once you have finished writing your blog post, you can save the file and commit your changes to your local repository. You can do this by running the following commands in your terminal:
 
 ```bash
@@ -134,10 +149,10 @@ git commit -m "Add my first blog post using Quarto"
 git push origin <branch-name>
 ```
 
-##### Step 6
+#### Step 6
 Next, you will need to create a pull request to merge your changes to the main branch. You can do this by navigating to the GitHub repository and clicking on the `New pull request` button.
 
-##### Step 7
+#### Step 7
 Once you have created a pull request, you can wait for your changes to be reviewed and merged to the main branch.
 
 #
