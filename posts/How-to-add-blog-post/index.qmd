@@ -18,14 +18,6 @@ image: "./quarto.png"
 citation: 
     url: https://oscsa.netlify.app/posts/how-to-add-a-blog-post/
 site-url: https://oscsa.netlify.app/posts/how-to-add-a-blog-post/
-# format: 
-#     html: 
-#         toc: true
-#         css: 
-#             - "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css"
-#             - "https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/3.0.1/github-markdown.min.css"
-#             - "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css"
-#         embed-resources: true
 ---
 
 #
@@ -215,17 +207,4 @@ In this tutorial, we learned how to create a blog post using Quarto. We started 
 -  [Markdown](https://en.wikipedia.org/wiki/Markdown)
 -  [YAML](https://en.wikipedia.org/wiki/YAML)
 
-
-
-
-<!-- To create a blog post using Quarto, you would need to first create a Markdown file using the Quarto syntax. Markdown is a simple markup language that is often used to format text on the web. The Quarto syntax extends the basic Markdown syntax with additional features and functionality, such as the ability to add columns, tables, and other advanced formatting options.
-
-To create a new Markdown file using Quarto, you can use any text editor or word processor that supports the Markdown syntax. In your file, you can use Quarto syntax to add formatting and structure to your blog post. For example, you can use # characters to create headings, - or * characters to create bullet points, and > characters to create block quotes.
-
-Once you have created your Markdown file using Quarto syntax, you can save it with a .md file extension and use it to create a blog post on any platform that supports Markdown. Some popular platforms for publishing blog posts include WordPress, Blogger, and Tumblr. You can also use a static site generator, such as Jekyll or Hugo, to convert your Markdown file into a standalone HTML webpage that you can host on your own website.
-
-I hope this helps! Let me know if you have any other questions.
-
-
-# How to add a blog post using Quarto -->
 
