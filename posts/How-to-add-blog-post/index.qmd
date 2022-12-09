@@ -161,14 +161,10 @@ To add images to your blog post, add the image file to the same folder as the `i
 ![](./<image-name>.<image-extension>)
 ```
 
-##### Step 6 - Commit your changes
-Once you have finished writing your blog post, you can save the file and commit your changes to your local repository. You can do this by running the following commands in your terminal:
+#
 
-```bash
-git add .
-git commit -m "Add my first blog post using Quarto"
-git push origin <branch-name>
-```
+##### Step 6 - Commit your changes
+Once you have finished writing your blog post, you can save the file and commit your changes to your local repository.
 
 #
 
@@ -183,11 +179,11 @@ Once you have created a pull request, you can wait for your changes to be review
 #
 
 ### Preview your blog post
-To preview your blog post, you can run the following command in your terminal:
-
-```bash
-quarto serve
-```
+Since we are working directly from the Github account and Quarto is a command line tool, you can not preview the HTML rendered version of your blogpost.
+To see the preview:
+- Clone the forked repository to your local machine
+- Navigate to the `/post` folder, then open the new folder you created.
+- Open the terminal here and run `quarto preview`. This will open a new tab in your browser with the preview of your blog post.
 
 This will start a local server that will host your blog post. You can then navigate to the URL that is displayed in your terminal to preview your blog post.
 
