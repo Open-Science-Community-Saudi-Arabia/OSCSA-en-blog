@@ -33,9 +33,8 @@ Quarto is a new open source project that aims to make it easier for people to cr
 ### Prerequisites
 To get started with contributing with Quarto, you will need;
 
-- A computer with an internet connection.
 - A GitHub account.
-- A basic understanding of Markdown.
+- A basic understanding of Markdown is recommended but not necessary.
 
 ### Install Quarto
 To install quarto on your computer, you can download the latest version of R from the R Project website. 
