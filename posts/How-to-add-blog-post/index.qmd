@@ -143,7 +143,7 @@ After the front matter, you can start writing your blog post using the Quarto sy
 
 For this tutorial we'll be using dummy text to write our blog post. You can replace the dummy text with your own content.
 
-```markdown
+```yaml
 # My first blog post using Quarto
 Magna ad anim nulla reprehenderit ea dolor ullamco Lorem ad consequat enim. Et officia qui sit tempor voluptate aliqua enim deserunt laboris enim nulla ullamco. Non eiusmod esse esse amet enim dolore sint culpa. Esse anim duis elit velit aliqua et. Proident incididunt magna voluptate laboris laborum eiusmod deserunt dolore mollit fugiat quis cillum aliquip. Nulla quis id aute duis aliquip officia in enim duis laborum aute duis. Aliqua sunt fugiat nostrud officia esse occaecat commodo est.
 
@@ -220,6 +220,15 @@ image: "./quarto.png"
 citation: 
     url: https://oscsa.netlify.app/posts/my-first-blog-post/
 ---
+
+# My first blog post using Quarto
+Magna ad anim nulla reprehenderit ea dolor ullamco Lorem ad consequat enim. Et officia qui sit tempor voluptate aliqua enim deserunt laboris enim nulla ullamco. Non eiusmod esse esse amet enim dolore sint culpa. Esse anim duis elit velit aliqua et. Proident incididunt magna voluptate laboris laborum eiusmod deserunt dolore mollit fugiat quis cillum aliquip. Nulla quis id aute duis aliquip officia in enim duis laborum aute duis. Aliqua sunt fugiat nostrud officia esse occaecat commodo est.
+
+## What is Quarto?
+![](./quarto.png){fig-align="center" width="100%"}   <!-- Image file -->
+
+Mollit eiusmod culpa in ad esse nulla est do consectetur. Eiusmod et Lorem sint veniam nisi minim ad velit sit culpa. Occaecat culpa sint cupidatat minim elit commodo labore mollit est ipsum. Anim officia est tempor esse voluptate occaecat nulla velit elit officia elit consectetur enim. Aliqua est reprehenderit culpa labore magna ut deserunt. Proident ex ad quis exercitation dolore minim cupidatat ad pariatur. Est minim irure enim non incididunt velit laborum est adipisicing enim eiusmod quis.
+
 ```
 
 Since we are working directly from the Github account and Quarto is a command line tool, you can not preview the HTML rendered version of your blogpost.
