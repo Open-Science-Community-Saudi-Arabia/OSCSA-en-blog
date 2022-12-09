@@ -66,13 +66,20 @@ You can download the latest version of these editors here.
 ### Setup Local environment
 ##### Step 1
 To get started, you will need to fork the OSCA blog repository from GitHub.
-![](./1_create_fork.png){fig-align="center" width="900" fig-caption="Forking the OSCA blog repository"}
+![](./1_create_fork.png){fig-align="center" width="500" }
 
 ##### Step 2
-Next create a new branch for your blog post using the following command:
-```bash
-git checkout -b <branch-name>
-```
+Next create a new branch for your blog post using the following command, the branch should be created on your forked repository.
+
+1. To create the new branch, navigate to your forked repository.
+2. Under the repository name, click on the drop down menu and select the new branch option.
+![](./new_branch1.png){fig-align="center" width="500"}
+3. Click the `New branch` button.
+4. Enter the name of your new branch and click the `Create branch` button.
+![](./new_branch3.png){fig-align="center" width="500"}
+
+
+
 #
 
 ### Create a new blog post
