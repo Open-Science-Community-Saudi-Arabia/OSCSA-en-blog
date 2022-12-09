@@ -38,45 +38,34 @@ site-url: https://oscsa.netlify.app/posts/how-to-add-a-blog-post/
 Quarto is a new open source project that aims to make it easier for people to create and publish blog posts. It is a static site generator that uses the Markdown syntax to create blog posts. Quarto is written in the R programming language and is available for download on GitHub.
 
 ## Get started
+### Prerequisites
+To get started with contributing with Quarto, you will need;
+
+- A computer with an internet connection.
+- A GitHub account.
+- A basic understanding of Markdown.
+
 ### Install Quarto
-To install quarto on your computer, you can download the latest version of R from the R Project website. Once you have installed R, you can install the quarto package using the following command: 
-    
-```r
-install.packages("quarto")
-```
+To install quarto on your computer, you can download the latest version of R from the R Project website. 
 
-Alternatively, you can install quarto from the command line using the following command:
-
-```bash
-Rscript -e "install.packages('quarto')"
-```
-
-or Download the latest version from the [Quarto](https://quarto.org/docs/get-started/) website.
-
-After installing quarto, you can pick a preferred editor of your choice. Some popular editors include RStudio, Atom, and Visual Studio Code. You can also use any text editor or word processor that supports the Markdown syntax.
-
-You can download the latest version of these editors here.
-
--  Vscode from the [Vscode](https://code.visualstudio.com/) website.
--  RStudio from the [RStudio](https://rstudio.com/) website.
--  Atom from the [Atom](https://atom.io/) website.
+To Download the latest version of quarto visit the [Quarto](https://quarto.org/docs/get-started/) website.
 
 #
 
 ### Setup Local environment
 ##### Step 1
 To get started, you will need to fork the OSCA blog repository from GitHub.
-![](./1_create_fork.png){fig-align="center" width="500" }
+![](./1_create_fork.png){fig-align="center" width="400" }
 
 ##### Step 2
 Next create a new branch for your blog post using the following command, the branch should be created on your forked repository.
 
 1. To create the new branch, navigate to your forked repository.
 2. Under the repository name, click on the drop down menu and select the new branch option.
-![](./new_branch1.png){fig-align="center" width="500"}
+![](./new_branch1.png){fig-align="center" width="400"}
 3. Click the `New branch` button.
 4. Enter the name of your new branch and click the `Create branch` button.
-![](./new_branch3.png){fig-align="center" width="500"}
+![](./new_branch3.png){fig-align="center" width="400"}
 
 
 
