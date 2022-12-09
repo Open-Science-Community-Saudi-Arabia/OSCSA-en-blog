@@ -55,18 +55,18 @@ To Download the latest version of quarto visit the [Quarto](https://quarto.org/d
 ### Setup Local environment
 #### Step 1
 To get started, you will need to fork the OSCA blog repository from GitHub.
-![](./1_create_fork.png){fig-align="center" width="100%" }
+![](./1_create_fork.png){fig-align="center" width="80%" }
 
 #
 
 #### Step 2
 Next create a new branch for your blog post using the following command, the branch should be created on your forked repository.
 
-1. To create the new branch, navigate to your forked repository.
-2. Under the repository name, click on the drop down menu and select the `View all branches` option.
+- To create the new branch, navigate to your forked repository.
+- Under the repository name, click on the drop down menu and select the `View all branches` option.
 ![](./new_branch1.png){fig-align="center" width="400"}
-3. Click the `New branch` button.
-4. Enter the name of your new branch and click the `Create branch` button.
+- Click the `New branch` button.
+- Enter the name of your new branch and click the `Create branch` button.
 ![](./new_branch3.png){fig-align="center" width="400"}
 
 
@@ -79,23 +79,25 @@ To create a blog post using Quarto, you would need to first create a Markdown fi
 For this tutorial, we won't be building a blog from scratch. Instead, we will be adding new posts to the OSCA blog using Quarto.
 
 #### Step 1
-i. Switch to the branch that you created in the previous step.
+- Switch to the branch that you created in the previous step.
 
-ii. Navigate to the `posts` folder and create a new folder with the name of your blog post. For example, if you are writing a blog post about how to add a blog post using Quarto, you can name your folder.`how-to-add-a-blog-post-using-quarto`.
+- Navigate to the `posts` folder and create a new folder with the name of your blog post. For example, if you are writing a blog post about how to add a blog post using Quarto, you can name your folder.`how-to-add-a-blog-post-using-quarto`.
 
 ![](./create_new_file.png){fig-align="center" width="80%" }
 
-iii. Type the name of the folder followed by a forward slash `/`. This would create a subfolder in the `posts` folder. The folder name should be in lowercase and should not contain any spaces. Instead, use hyphens to separate words.
+- Type the name of the folder followed by a forward slash `/`. This would create a subfolder in the `posts` folder. The folder name should be in lowercase and should not contain any spaces. Instead, use hyphens to separate words.
 ![](./create_new_file1.png){fig-align="center" width="100%"}
 
-#### Step2
+#
+
+#### Step 2
 You'll need a new `index.md` file. This is where you will write your blog post using the Quarto syntax.
-i. Add the name of the file that you want to create. For example, if you want to create a file named `index.md`, type `index.md` 
+
+- Add the name of the file that you want to create. For example, if you want to create a file named `index.md`, type `index.md` 
 ![](./create_new_file2.png){fig-align="center" width="100%"}
 
-ii. Press the `Commit new file` button to create the new folder and file.
+- Press the `Commit new file` button to create the new folder and file.
 ![](./create_new_file3.png){fig-align="center" width="100%"}
-
 
 The Quarto syntax is a simple markup language that is often used to format text on the web. The Quarto syntax extends the basic Markdown syntax with additional features and functionality, such as the ability to add columns, tables, and other advanced formatting options.
 
