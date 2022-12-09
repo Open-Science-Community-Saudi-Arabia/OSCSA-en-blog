@@ -164,12 +164,27 @@ To add images to your blog post, add the image file to the same folder as the `i
 #
 
 ##### Step 6 - Commit your changes
-Once you have finished writing your blog post, you can save the file and commit your changes to your local repository.
+Once you have finished writing your blog post, you can save the file and commit your changes to your forked repository.
 
 #
 
 ##### Step 7 - Create a pull request
-Next, you will need to create a pull request to merge your changes to the main branch. You can do this by navigating to the GitHub repository and clicking on the `New pull request` button.
+- Next, you will need to create a pull request to merge your changes to the main branch. You can do this by navigating to the GitHub repository and clicking on the `New pull request` button.
+
+![](./new_PR.png){fig-align="center" width="100%"}
+
+- The branch for the base repository should be set to `main` and the branch for the head repository should be set to the branch that you created in the previous step. Click the `Create pull request` button to create a new pull request.
+
+![](./new_PR1.png){fig-align="center" width="100%"}
+
+- You can then add a title and description for your pull request. Click the `Create pull request` button to create a new pull request.
+
+![](./new_PR2.png){fig-align="center" width="100%"}
+
+The title of your pull request should be a short description of the changes that you made.
+it should follow the format `[blog]: Title of your blog`
+
+Automatically, the PR template will be added to the description of your pull request. You can add more information about your pull request in the description.
 
 #
 
@@ -181,7 +196,8 @@ Once you have created a pull request, you can wait for your changes to be review
 ### Preview your blog post
 Since we are working directly from the Github account and Quarto is a command line tool, you can not preview the HTML rendered version of your blogpost.
 To see the preview:
-- Clone the forked repository to your local machine
+
+- Clone the forked repository to your local machine.
 - Navigate to the `/post` folder, then open the new folder you created.
 - Open the terminal here and run `quarto preview`. This will open a new tab in your browser with the preview of your blog post.
 
