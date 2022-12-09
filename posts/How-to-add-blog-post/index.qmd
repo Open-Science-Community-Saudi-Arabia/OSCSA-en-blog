@@ -53,13 +53,17 @@ To Download the latest version of quarto visit the [Quarto](https://quarto.org/d
 #
 
 ### Setup Local environment
-#### Step 1
+To start making contributions to the OSCA blog, you will need to setup a personal environment on your personal Github account. This will allow you to make changes to the blog without affecting the live version of the blog.
+
+#
+
+##### Step 1 - Fork the repository
 To get started, you will need to fork the OSCA blog repository from GitHub.
 ![](./1_create_fork.png){fig-align="center" width="80%" }
 
 #
 
-#### Step 2
+##### Step 2 - Create a new branch
 Next create a new branch for your blog post using the following command, the branch should be created on your forked repository.
 
 - To create the new branch, navigate to your forked repository.
@@ -70,7 +74,6 @@ Next create a new branch for your blog post using the following command, the bra
 ![](./new_branch3.png){fig-align="center" width="400"}
 
 
-
 #
 
 ### Create a new blog post
@@ -78,7 +81,9 @@ To create a blog post using Quarto, you would need to first create a Markdown fi
 
 For this tutorial, we won't be building a blog from scratch. Instead, we will be adding new posts to the OSCA blog using Quarto.
 
-#### Step 1
+#
+
+##### Step 1 - Create a new folder 
 - Switch to the branch that you created in the previous step.
 
 - Navigate to the `posts` folder and create a new folder with the name of your blog post. For example, if you are writing a blog post about how to add a blog post using Quarto, you can name your folder.`how-to-add-a-blog-post-using-quarto`.
@@ -90,7 +95,7 @@ For this tutorial, we won't be building a blog from scratch. Instead, we will be
 
 #
 
-#### Step 2
+##### Step 2 - Create a new file
 You'll need a new `index.md` file. This is where you will write your blog post using the Quarto syntax.
 
 - Add the name of the file that you want to create. For example, if you want to create a file named `index.md`, type `index.md` 
@@ -101,7 +106,9 @@ You'll need a new `index.md` file. This is where you will write your blog post u
 
 The Quarto syntax is a simple markup language that is often used to format text on the web. The Quarto syntax extends the basic Markdown syntax with additional features and functionality, such as the ability to add columns, tables, and other advanced formatting options.
 
-#### Step 3
+#
+
+##### Step 3 - Add front matter
 The index.md file should contain the following front matter:
 
 ```yaml
@@ -131,7 +138,9 @@ The front matter is a set of metadata that is used to describe the blog post. It
 -  `image`: The image that will be used as the featured image for the blog post.
 -  `citation`: The citation for the blog post.
 
-#### Step 4
+#
+
+##### Step 4 - Write your blog post
 After the front matter, you can start writing your blog post using the Quarto syntax. For example, you can use # characters to create headings, - or * characters to create bullet points, and > characters to create block quotes.
 
 Note: If you dont know how to write a blog post using the Quarto syntax, you can check out the [Quarto documentation](https://quarto.org/docs/get-started/) for more information.
@@ -141,8 +150,9 @@ If you dont want the blog post to be published immediately, you can add the foll
 draft: true
 ```
 
+#
 
-#### Step 5
+##### Step 5 - Commit your changes
 Once you have finished writing your blog post, you can save the file and commit your changes to your local repository. You can do this by running the following commands in your terminal:
 
 ```bash
@@ -151,10 +161,14 @@ git commit -m "Add my first blog post using Quarto"
 git push origin <branch-name>
 ```
 
-#### Step 6
+#
+
+##### Step 6
 Next, you will need to create a pull request to merge your changes to the main branch. You can do this by navigating to the GitHub repository and clicking on the `New pull request` button.
 
-#### Step 7
+#
+
+##### Step 7
 Once you have created a pull request, you can wait for your changes to be reviewed and merged to the main branch.
 
 #
