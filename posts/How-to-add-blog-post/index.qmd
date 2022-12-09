@@ -86,7 +86,7 @@ For this tutorial, we won't be building a blog from scratch. Instead, we will be
 ##### Step 1 - Create a new folder 
 - Switch to the branch that you created in the previous step.
 
-- Navigate to the `posts` folder and create a new folder with the name of your blog post. For example, if you are writing a blog post about how to add a blog post using Quarto, you can name your folder.`how-to-add-a-blog-post-using-quarto`.
+- Navigate to the `posts` folder and create a new folder with the name of your blog post. For example, if you are writing a blog post about *how to add a blog post using Quarto*, you can name your folder to `how-to-add-a-blog-post-using-quarto`.
 
 ![](./create_new_file.png){fig-align="center" width="80%" }
 
@@ -104,7 +104,6 @@ You'll need a new `index.md` file. This is where you will write your blog post u
 - Press the `Commit new file` button to create the new folder and file.
 ![](./create_new_file3.png){fig-align="center" width="100%"}
 
-The Quarto syntax is a simple markup language that is often used to format text on the web. The Quarto syntax extends the basic Markdown syntax with additional features and functionality, such as the ability to add columns, tables, and other advanced formatting options.
 
 #
 
@@ -141,9 +140,12 @@ The front matter is a set of metadata that is used to describe the blog post. It
 #
 
 ##### Step 4 - Write your blog post
-After the front matter, you can start writing your blog post using the Quarto syntax. For example, you can use # characters to create headings, - or * characters to create bullet points, and > characters to create block quotes.
+After the front matter, you can start writing your blog post using the Quarto syntax. The Quarto syntax is a simple markup language that is often used to format text on the web. It extends the basic Markdown syntax with additional features and functionality, such as the ability to add columns, tables, and other advanced formatting options.
+
+ For example, you can use # characters to create headings, - or * characters to create bullet points, and > characters to create block quotes.
 
 Note: If you dont know how to write a blog post using the Quarto syntax, you can check out the [Quarto documentation](https://quarto.org/docs/get-started/) for more information.
+
 If you dont want the blog post to be published immediately, you can add the following field to the front matter:
 
 ```yaml
@@ -152,7 +154,14 @@ draft: true
 
 #
 
-##### Step 5 - Commit your changes
+##### Step 5 - Add images
+To add images to your blog post, add the image file to the same folder as the `index.md`. You can then reference the image in your blog post using the following syntax:
+
+```markdown
+![](./<image-name>.<image-extension>)
+```
+
+##### Step 6 - Commit your changes
 Once you have finished writing your blog post, you can save the file and commit your changes to your local repository. You can do this by running the following commands in your terminal:
 
 ```bash
@@ -163,12 +172,12 @@ git push origin <branch-name>
 
 #
 
-##### Step 6
+##### Step 7 - Create a pull request
 Next, you will need to create a pull request to merge your changes to the main branch. You can do this by navigating to the GitHub repository and clicking on the `New pull request` button.
 
 #
 
-##### Step 7
+##### Step 8 - Merge your changes
 Once you have created a pull request, you can wait for your changes to be reviewed and merged to the main branch.
 
 #
