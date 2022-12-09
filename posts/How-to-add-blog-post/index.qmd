@@ -36,11 +36,12 @@ To get started with contributing with Quarto, you will need;
 - A GitHub account.
 - A basic understanding of Markdown is recommended but not necessary.
 
+::: {.aside}
 ### Install Quarto
 To install quarto on your computer, you can download the latest version of R from the R Project website. 
 
 To Download the latest version of quarto visit the [Quarto](https://quarto.org/docs/get-started/) website.
-
+:::
 #
 
 ### Setup Local environment
