@@ -205,19 +205,8 @@ This will start a local server that will host your blog post. You can then navig
 
 #
 
-### Publish your blog post
-To publish your blog post, you can run the following command in your terminal:
-
-```bash
-quarto render
-```
-
-This will render your blog post and save it as an HTML file. You can then upload the HTML file to any platform that supports HTML files.
-
-#
-
 ### Conclusion
-In this tutorial, we learned how to create a blog post using Quarto. We started by installing Quarto and setting up our local environment. We then created a new blog post using the Quarto syntax and previewed it using the Quarto serve command. Finally, we published our blog post using the Quarto render command.
+In this tutorial, we learned how to create a blog post using Quarto. We started by installing Quarto and setting up our local environment. We then created a new blog post using the Quarto syntax and previewed it using the Quarto serve command. Finally, we submitted a pull request for the new changes.
 
 #
 
