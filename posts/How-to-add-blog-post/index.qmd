@@ -141,6 +141,20 @@ After the front matter, you can start writing your blog post using the Quarto sy
 
  For example, you can use # characters to create headings, - or * characters to create bullet points, and > characters to create block quotes.
 
+For this tutorial we'll be using dummy text to write our blog post. You can replace the dummy text with your own content.
+
+```markdown
+# My first blog post using Quarto
+Magna ad anim nulla reprehenderit ea dolor ullamco Lorem ad consequat enim. Et officia qui sit tempor voluptate aliqua enim deserunt laboris enim nulla ullamco. Non eiusmod esse esse amet enim dolore sint culpa. Esse anim duis elit velit aliqua et. Proident incididunt magna voluptate laboris laborum eiusmod deserunt dolore mollit fugiat quis cillum aliquip. Nulla quis id aute duis aliquip officia in enim duis laborum aute duis. Aliqua sunt fugiat nostrud officia esse occaecat commodo est.
+
+## What is Quarto?
+![](./quarto.png){fig-align="center" width="100%"}   <!-- Image file -->
+
+Mollit eiusmod culpa in ad esse nulla est do consectetur. Eiusmod et Lorem sint veniam nisi minim ad velit sit culpa. Occaecat culpa sint cupidatat minim elit commodo labore mollit est ipsum. Anim officia est tempor esse voluptate occaecat nulla velit elit officia elit consectetur enim. Aliqua est reprehenderit culpa labore magna ut deserunt. Proident ex ad quis exercitation dolore minim cupidatat ad pariatur. Est minim irure enim non incididunt velit laborum est adipisicing enim eiusmod quis.
+
+```
+    
+
 Note: If you dont know how to write a blog post using the Quarto syntax, you can check out the [Quarto documentation](https://quarto.org/docs/get-started/) for more information.
 
 If you dont want the blog post to be published immediately, you can add the following field to the front matter:
@@ -191,6 +205,23 @@ Once you have created a pull request, you can wait for your changes to be review
 #
 
 ### Preview your blog post
+If you followed the steps carefully, your `index.qmd` file should look like this:
+
+```yaml
+---
+title: "My first blog post using Quarto"
+author: "Richie Moluno, Goodnews Sandygudie"
+date: "2022-12-08"
+categories: "blog"
+description: "This is my first blog post for the OSCA blog using Quarto."
+licence: "CC BY"
+type: "post"
+image: "./quarto.png"
+citation: 
+    url: https://oscsa.netlify.app/posts/my-first-blog-post/
+---
+```
+
 Since we are working directly from the Github account and Quarto is a command line tool, you can not preview the HTML rendered version of your blogpost.
 To see the preview:
 
