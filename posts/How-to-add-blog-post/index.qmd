@@ -65,17 +65,14 @@ You can download the latest version of these editors here.
 
 ### Setup Local environment
 ##### Step 1
-To get started, you will need to fork and clone the OSCA blog repository from GitHub. You can do this by running the following command in your terminal:
-```bash
-git clone https://github.com/Open-Science-Community-Saudi-Arabia/OSCSA-en-blog
-```
+To get started, you will need to fork the OSCA blog repository from GitHub.
+![](./1_create_fork.png){fig-align="center" width="900" fig-caption="Forking the OSCA blog repository"}
 
 ##### Step 2
 Next create a new branch for your blog post using the following command:
 ```bash
 git checkout -b <branch-name>
 ```
-
 #
 
 ### Create a new blog post
