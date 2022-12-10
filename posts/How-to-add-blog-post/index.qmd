@@ -232,14 +232,9 @@ Mollit eiusmod culpa in ad esse nulla est do consectetur. Eiusmod et Lorem sint 
 
 ```
 
-Since we are working directly from the Github account and Quarto is a command line tool, you can not preview the HTML rendered version of your blogpost.
-To see the preview:
+To see a preview of your blog post, you can visit the netlify preview link that was generated when you created the pull request. 
 
-- Clone the forked repository to your local machine.
-- Navigate to the `/post` folder, then open the new folder you created.
-- Open the terminal here and run `quarto preview`. This will open a new tab in your browser with the preview of your blog post.
-
-This will start a local server that will host your blog post. You can then navigate to the URL that is displayed in your terminal to preview your blog post.
+![](./preview_link.png){fig-align="center" width="80%"}
 
 #
 
