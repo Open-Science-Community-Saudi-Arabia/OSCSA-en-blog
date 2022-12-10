@@ -12,7 +12,7 @@ licence: "CC BY"
 type: "post"
 toc-title: "Table of Contents"
 toc-location: right
-toc-depth: 3
+toc-depth: 5
 toc: true
 image: "./quarto-logo.jpg"
 citation: 
