@@ -187,11 +187,11 @@ Once you have finished writing your blog post, you can save the file and commit 
 
 - The branch for the base repository should be set to `main` and the branch for the head repository should be set to the branch that you created in the previous step. Click the `Create pull request` button to create a new pull request.
 
-![](./new_PR1.png){fig-align="center" width="80%"}
+![](./create_PR.PNG){fig-align="center" width="auto"}
 
 - You can then add a title and description for your pull request. Click the `Create pull request` button to create a new pull request.
 
-![](./new_PR2.png){fig-align="center" width="80%"}
+![](./PR-template.PNG){fig-align="center" width="auto"}
 
 The title of your pull request should be a short description of the changes that you made.
 it should follow the format `[blog]: Title of your blog`
@@ -234,7 +234,7 @@ Mollit eiusmod culpa in ad esse nulla est do consectetur. Eiusmod et Lorem sint 
 
 To see a preview of your blog post, you can visit the netlify preview link that was generated when you created the pull request. 
 
-![](./netlify-preview.PNG){fig-align="center" width="80%"}
+![](./netlify-preview.png){fig-align="center" width="auto"}
 
 #
 
