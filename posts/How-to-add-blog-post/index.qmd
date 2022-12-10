@@ -45,7 +45,7 @@ To Download the latest version of quarto visit the [Quarto](https://quarto.org/d
 #
 
 ### Setup Local environment
-To start making contributions to the OSCSA blog, you will need to add the OSCSA blog repository to your personal Github account. This will allow you to make changes to the blog without affecting the live version of the blog.
+To start making contributions to the OSCSA blog, you will need to add the [OSCSA blog repository](https://github.com/Open-Science-Community-Saudi-Arabia/OSCSA-en-blog/) to your personal Github account. This will allow you to make changes to the blog without affecting the live version of the blog.
 
 #
 
