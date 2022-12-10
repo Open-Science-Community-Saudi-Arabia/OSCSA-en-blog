@@ -62,15 +62,15 @@ Next create a new branch for your blog post using the following steps, the branc
 - To create the new branch, navigate to your forked repository.
 - Under the repository name, click on the drop down menu and select the `View all branches` option.
 
-![](./new_branch1.PNG){fig-align="center" width="auto"}
+![](./new_branch1.png){fig-align="center" width="auto"}
 
 - Click the `New branch` button.
 
-![](./new_branch_new.PNG){fig-align="center" width="80%"}
+![](./new_branch_new.png){fig-align="center" width="80%"}
 
 - Enter the name of your new branch and click the `Create branch` button.
 
-![](./new_branch3.PNG){fig-align="center" width="auto"}
+![](./new_branch3.png){fig-align="center" width="auto"}
 
 #
 
@@ -86,7 +86,7 @@ For this tutorial, we won't be building a blog from scratch. Instead, we will be
 
 - Navigate to the `posts` folder and create a new folder with the name of your blog post. For example, if you are writing a blog post about *how to add a blog post using Quarto*, you can name your folder  `how-to-add-a-blog-post-using-quarto`.
 
-![](./create_new_file.PNG){fig-align="center" width="auto" }
+![](./create_new_file.png){fig-align="center" width="auto" }
 
 - Type the name of the folder followed by a forward slash `/`. This would create a subfolder in the `posts` folder. The folder name should be in lowercase and should not contain any spaces. Instead, use hyphens to separate words.
 ![](./create_new_file1.png){fig-align="center" width="auto"}
@@ -185,11 +185,11 @@ Once you have finished writing your blog post, you can save the file and commit 
 ##### Step 7 - Create a pull request
 - Next, create a pull request to merge your changes to the main branch. You can do this by navigating to the GitHub repository and clicking on the `New pull request` button.
 
-![](./new-pullrequest.PNG){fig-align="center" width="auto"}
+![](./new-pullrequest.png){fig-align="center" width="auto"}
 
 - The branch for the base repository should be set to `main` and the branch for the head repository should be set to the branch that you created in the previous step. Click the `Create pull request` button to create a new pull request.
 
-![](./create_PR.PNG){fig-align="center" width="auto"}
+![](./create_PR.png){fig-align="center" width="auto"}
 
 - Add a *title* and *description* for your pull request. The title of your pull request should be a short description of the changes that you made.
 it should follow the format `[blog]: Title of your blog` 
@@ -198,7 +198,7 @@ it should follow the format `[blog]: Title of your blog`
 
 - Click the `Create pull request` button to create a new pull request.
 
-![](./PR-template.PNG){fig-align="center" width="auto"}
+![](./PR-template.png){fig-align="center" width="auto"}
 
 #
 
