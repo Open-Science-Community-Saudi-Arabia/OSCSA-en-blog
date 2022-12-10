@@ -34,7 +34,7 @@ site-url: https://oscsa.netlify.app/posts/how-to-add-a-blog-post/
 To get started with contributing with Quarto, you will need;
 
 - A GitHub [account](https://github.com/).
-- A basic understanding of Markdown is recommended but not necessary.
+- A basic understanding of Markdown is recommended but not necessary. Here is a [guide](https://www.markdownguide.org/cheat-sheet/)
 
 ::: {.aside}
 ### Install Quarto
