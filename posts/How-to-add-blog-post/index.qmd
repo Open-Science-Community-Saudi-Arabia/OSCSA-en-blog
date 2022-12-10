@@ -7,7 +7,7 @@ categories:
     - "blog"
     - "quarto"
     - "outreachy"
-description: "This is a tutorial on how to add a blog post to the OSCA blog using Quarto."
+description: "This is a tutorial on how to add a blog post to the OSCSA blog using Quarto."
 licence: "CC BY"
 type: "post"
 toc-title: "Table of Contents"
@@ -27,13 +27,13 @@ site-url: https://oscsa.netlify.app/posts/how-to-add-a-blog-post/
 #
 
 ## What is Quarto?
-Quarto is a new open source project that aims to make it easier for people to create and publish blog posts. It is a static site generator that uses the Markdown syntax to create blog posts. Quarto is written in the R programming language and is available for download on GitHub.
+[Quarto](https://quarto.org/) is a new open source project that aims to make it easier for people to create and publish blog posts. It is a static site generator that uses the Markdown syntax to create blog posts. Quarto is written in the R programming language and is available for download on GitHub.
 
 ## Get started
 ### Prerequisites
 To get started with contributing with Quarto, you will need;
 
-- A GitHub account.
+- A GitHub [account](https://github.com/).
 - A basic understanding of Markdown is recommended but not necessary.
 
 ::: {.aside}
@@ -45,12 +45,12 @@ To Download the latest version of quarto visit the [Quarto](https://quarto.org/d
 #
 
 ### Setup Local environment
-To start making contributions to the OSCA blog, you will need to setup a personal environment on your personal Github account. This will allow you to make changes to the blog without affecting the live version of the blog.
+To start making contributions to the OSCSA blog, you will need to add the OSCSA blog repository to your personal Github account. This will allow you to make changes to the blog without affecting the live version of the blog.
 
 #
 
 ##### Step 1 - Fork the repository
-To get started, you will need to fork the OSCA blog [repository](https://github.com/Open-Science-Community-Saudi-Arabia/OSCSA-en-blog) from GitHub.
+To get started, fork the OSCSA blog [repository](https://github.com/Open-Science-Community-Saudi-Arabia/OSCSA-en-blog) from GitHub.
 
 ![](./create_fork.png){fig-align="center" width="auto"}
 
@@ -77,14 +77,14 @@ Next create a new branch for your blog post using the following steps, the branc
 ### Create a new blog post
 To create a blog post using Quarto, you would need to first create a Markdown file using the Quarto syntax. Markdown is a simple markup language that is often used to format text on the web. The Quarto syntax extends the basic Markdown syntax with additional features and functionality, such as the ability to add columns, tables, and other advanced formatting options.
 
-For this tutorial, we won't be building a blog from scratch. Instead, we will be adding new posts to the OSCA blog using Quarto.
+For this tutorial, we won't be building a blog from scratch. Instead, we will be adding new posts to the OSCSA blog using Quarto.
 
 #
 
 ##### Step 1 - Create a new folder 
 - Switch to the branch that you created in the previous step.
 
-- Navigate to the `posts` folder and create a new folder with the name of your blog post. For example, if you are writing a blog post about *how to add a blog post using Quarto*, you can name your folder to `how-to-add-a-blog-post-using-quarto`.
+- Navigate to the `posts` folder and create a new folder with the name of your blog post. For example, if you are writing a blog post about *how to add a blog post using Quarto*, you can name your folder  `how-to-add-a-blog-post-using-quarto`.
 
 ![](./create_new_file.PNG){fig-align="center" width="auto" }
 
@@ -94,9 +94,9 @@ For this tutorial, we won't be building a blog from scratch. Instead, we will be
 #
 
 ##### Step 2 - Create a new file
-You'll need a new `index.md` file. This is where you will write your blog post using the Quarto syntax.
+You'll need a new `index.qmd` file. This is where you will write your blog post using the Quarto syntax.
 
-- Add the name of the file that you want to create. For example, if you want to create a file named `index.md`, type `index.md` 
+- Add the name of the file that you want to create. For example, if you want to create a file named `index.qmd`, type `index.qmd` 
 ![](./create_new_file2.png){fig-align="center" width="auto"}
 
 - Press the `Commit new file` button to create the new folder and file.
@@ -105,8 +105,8 @@ You'll need a new `index.md` file. This is where you will write your blog post u
 
 #
 
-##### Step 3 - Add front matter
-The index.md file should contain the following front matter:
+##### Step 3 - Add Metadata
+The  `index.qmd` file should contain the following metadata:
 
 ```yaml
 ---
@@ -123,7 +123,7 @@ citation:
 ---
 ```
 
-The front matter is a set of metadata that is used to describe the blog post. It is written in YAML format and is enclosed in three dashes. The front matter contains the following fields.
+The yaml block is a set of metadata that is used to describe the blog post. It is written in YAML format and is enclosed in three dashes. The yaml block contains the following fields.
 
 -  `title`: The title of your blog post.
 -  `author`: The name of the author of the blog post.
@@ -140,7 +140,9 @@ The front matter is a set of metadata that is used to describe the blog post. It
 ##### Step 4 - Write your blog post
 After the front matter, you can start writing your blog post using the Quarto syntax. The Quarto syntax is a simple markup language that is often used to format text on the web. It extends the basic Markdown syntax with additional features and functionality, such as the ability to add columns, tables, and other advanced formatting options.
 
- For example, you can use # characters to create headings, - or * characters to create bullet points, and > characters to create block quotes.
+ For example, you can use # characters to create headings,
+- or * characters to create bullet points, and 
+> characters to create block quotes.
 
 For this tutorial we'll be using dummy text to write our blog post. You can replace the dummy text with your own content.
 
@@ -158,7 +160,7 @@ Mollit eiusmod culpa in ad esse nulla est do consectetur. Eiusmod et Lorem sint 
 
 Note: If you dont know how to write a blog post using the Quarto syntax, you can check out the [Quarto documentation](https://quarto.org/docs/get-started/) for more information.
 
-If you dont want the blog post to be published immediately, you can add the following field to the front matter:
+If you don't want the blog post to be published immediately, you can add the following field to the yaml block:
 
 ```yaml
 draft: true
@@ -167,7 +169,7 @@ draft: true
 #
 
 ##### Step 5 - Add images
-To add images to your blog post, add the image file to the same folder as the `index.md`. You can then reference the image in your blog post using the following syntax:
+To add images to your blog post, add the image file to the same folder as the `index.qmd`. You can then reference the image in your blog post using the following syntax:
 
 ```markdown
 ![](./<image-name>.<image-extension>)
@@ -181,7 +183,7 @@ Once you have finished writing your blog post, you can save the file and commit 
 #
 
 ##### Step 7 - Create a pull request
-- Next, you will need to create a pull request to merge your changes to the main branch. You can do this by navigating to the GitHub repository and clicking on the `New pull request` button.
+- Next, create a pull request to merge your changes to the main branch. You can do this by navigating to the GitHub repository and clicking on the `New pull request` button.
 
 ![](./new-pullrequest.PNG){fig-align="center" width="auto"}
 
@@ -189,14 +191,14 @@ Once you have finished writing your blog post, you can save the file and commit 
 
 ![](./create_PR.PNG){fig-align="center" width="auto"}
 
-- You can then add a title and description for your pull request. Click the `Create pull request` button to create a new pull request.
+- Add a *title* and *description* for your pull request. The title of your pull request should be a short description of the changes that you made.
+it should follow the format `[blog]: Title of your blog` 
+
+- Automatically, the PR template will be added to the description of your pull request. You can add more information about your pull request in the description.
+
+- Click the `Create pull request` button to create a new pull request.
 
 ![](./PR-template.PNG){fig-align="center" width="auto"}
-
-The title of your pull request should be a short description of the changes that you made.
-it should follow the format `[blog]: Title of your blog`
-
-Automatically, the PR template will be added to the description of your pull request. You can add more information about your pull request in the description.
 
 #
 
@@ -214,7 +216,7 @@ title: "My first blog post using Quarto"
 author: "Richie Moluno, Goodnews Sandy"
 date: "2022-12-08"
 categories: "blog"
-description: "This is my first blog post for the OSCA blog using Quarto."
+description: "This is my first blog post for the OSCSA blog using Quarto."
 licence: "CC BY"
 type: "post"
 image: "./quarto.png"
@@ -239,7 +241,7 @@ To see a preview of your blog post, you can visit the netlify preview link that 
 #
 
 ### Conclusion
-In this tutorial, we learned how to create a blog post using Quarto. We started by installing Quarto and setting up our local environment. We then created a new blog post using the Quarto syntax and previewed it using the Quarto serve command. Finally, we submitted a pull request for the new changes.
+In this tutorial, we learned how to use Quarto to create a blog post in Github. We started by forking the original OSCSA blog respository to our Github account. We created a folder and added a file called  `index.qmd` and use the Quarto syntax to add content for our blog. Finally, we commited our changes and submitted a pull request. Our blog post can be viewed using the netlify preview link.
 
 #
 
