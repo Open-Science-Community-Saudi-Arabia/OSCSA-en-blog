@@ -1,7 +1,7 @@
 ---
 title: "How to add a blog post using Quarto"
 author: 
-    name: "Richie Moluno, Goodnews Sandygudie"
+    name: "Richie Moluno, Goodnews Sandy"
 date: "2022-12-08"
 categories: 
     - "blog"
@@ -14,7 +14,7 @@ toc-title: "Table of Contents"
 toc-location: right
 toc-depth: 3
 toc: true
-image: "./quarto.png"
+image: "./quarto-logo.jpg"
 citation: 
     url: https://oscsa.netlify.app/posts/how-to-add-a-blog-post/
 site-url: https://oscsa.netlify.app/posts/how-to-add-a-blog-post/
@@ -22,7 +22,7 @@ site-url: https://oscsa.netlify.app/posts/how-to-add-a-blog-post/
 
 #
 
-![](./quarto.png){fig-align="center" width="500" fig-caption="Quarto logo"}
+![](./quarto-logo.jpg){fig-align="center" fig-caption="Quarto logo"}
 
 #
 
@@ -50,26 +50,27 @@ To start making contributions to the OSCA blog, you will need to setup a persona
 #
 
 ##### Step 1 - Fork the repository
-To get started, you will need to fork the OSCA blog repository from GitHub.
-![](./1_create_fork_new.png){fig-align="center" width="100%" }
+To get started, you will need to fork the OSCA blog [repository](https://github.com/Open-Science-Community-Saudi-Arabia/OSCSA-en-blog) from GitHub.
+
+![](./create_fork.png){fig-align="center" width="auto"}
 
 #
 
 ##### Step 2 - Create a new branch
-Next create a new branch for your blog post using the following command, the branch should be created on your forked repository.
+Next create a new branch for your blog post using the following steps, the branch should be created on your forked repository.
 
 - To create the new branch, navigate to your forked repository.
 - Under the repository name, click on the drop down menu and select the `View all branches` option.
 
-![](./new_branch1.png){fig-align="center" width="400"}
+![](./new_branch1.PNG){fig-align="center" width="400"}
 
 - Click the `New branch` button.
 
-![](./new_branch_new.png){fig-align="center" width="80%"}
+![](./new_branch_new.PNG){fig-align="center" width="80%"}
 
 - Enter the name of your new branch and click the `Create branch` button.
 
-![](./new_branch3.png){fig-align="center" width="400"}
+![](./new_branch3.PNG){fig-align="center" width="400"}
 
 #
 
@@ -210,7 +211,7 @@ If you followed the steps carefully, your `index.qmd` file should look like this
 ```yaml
 ---
 title: "My first blog post using Quarto"
-author: "Richie Moluno, Goodnews Sandygudie"
+author: "Richie Moluno, Goodnews Sandy"
 date: "2022-12-08"
 categories: "blog"
 description: "This is my first blog post for the OSCA blog using Quarto."
