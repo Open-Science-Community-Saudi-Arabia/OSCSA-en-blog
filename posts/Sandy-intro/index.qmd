@@ -38,25 +38,3 @@ I had no mentor right from when i started coding, at first i didn't feel like it
 I hope to gain more experience in open source contributions, learn more about the open source community and also make new valuable connections that will be transferrable into the Robotics industry. 
 
 ### My experience with open source
-
-
-Here are a few more reasons why i want to become an MLH Fellow:
-
-* I will have the opportunity to work on cutting-edge projects and learn new technologies that are used in the industry.
-
-* I will receive mentorship and guidance from experienced professionals who can help me to developi' my skills and grow as a professional.
-
-* I will have the chance to network with other MLH Fellows and industry experts, which can help me build valuable connections and relationships within the tech community.
-
-As an MLH Fellow, I'll gain access to a wide range of resources and support, including technical training, job search assistance, and career development advice.
-
-By participating in the program, I also have the opportunity to make a positive impact on the tech industry, by contributing to important projects and helping to drive innovation and progress.
-
-Overall, becoming an MLH Fellow will be a way to advance my career in technology and gain experience.
-
-# Where are you from? What cool things would you share about where you live? Cultural practices, indigenous animals or plants, local attractions?
-
-
-# What's your background? Are you studying anything specific? What's your passion? Any hobbies you'd like to share? Did you have a career change and this is part of that pathway?
-# What brought you to Outreachy? What are you hoping the internship will help you achieve for your career, or other aspects of your life?
-# What stood out about Open Science Community Saudi Arabia (OSCSA)? What are you hoping to achieve in this community that would be different if you'd picked another project?
