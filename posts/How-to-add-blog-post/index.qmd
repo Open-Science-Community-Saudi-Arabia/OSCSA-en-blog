@@ -1,5 +1,5 @@
 ---
-title: "How to add a blog post using Quarto"
+title: "How to create a blog post in the Open Science Community Saudi Arabia using Quarto?"
 author: 
     name: "Richie Moluno, Goodnews Sandy"
 date: "2022-12-08"
