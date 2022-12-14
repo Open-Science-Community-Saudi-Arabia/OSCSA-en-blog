@@ -24,3 +24,12 @@ Congratulations to me!! I have been selected to participate in the [Outreachy 20
 The Open Science Community Saudi Arabia (OSCSA) is a huge community in Open Science and I am excited about the things I will be learning during the internship period. I look forward to learning with the community and I intend to maximize all the opportunities available to me. I believe the knowledge from this experience would be an added value to my skill sets and career progression in general. 
 
 Alright Let's do this!!!
+
+## Richie Moluno
+I am Richie Moluno, a Fullstack developer but more of backend development. My major stack is MongoDb ExpressJS and NodeJs. Currently I study Mechanical Engineering at the University of Benin, Benin City. I originally wanted to study because of the Iron-man movie. I really love robots, the process of converting computer codes to mechanical movements really intrigues me. When it was time to move into the University, the school i had in mind didn't have any course for robotics. So based on my knowledge then, i felt Mechanical Engineering would be the closest alternative to Robotics. 
+
+### My passion
+I really love to code, i think the passion doesn't rely lie on coding itself, i'm more interested in anything that involves applying complex logic to get desired results. I often go for the more complex tasks, because when i overcome these tasks it gives me a greater sense of reward and achievement. 
+While i am not coding i like listening to Jordan Peterson, he speaks alot on self improvement, becoming a better person, being morally upright and how to live a meaningful life. I also like listening to music. I like the idea to read books not often though, but i am more interested in books that talk on human psychology it helps me gain a better understanding of how the human mind works. I also like to play table tennis
+
+### Outreachy and my career path
