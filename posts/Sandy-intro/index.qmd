@@ -17,11 +17,24 @@ citation:
 ::: column-page
 ![](outreachy-image.png){fig-align="center"}
 :::
- My name is Goodnews Sandy, I am a Frontend Developer and a Technical Writer. I enjoy building web-based applications that leave a lasting impressions on users using various frontend technologies.  I write to consolidate my knowledge and also share with others.  I love contributing to open source and my hobbies: sports and reading. 
 
-Congratulations to me!! I have been selected to participate in the [Outreachy 2023 Internship](https://www.outreachy.org/) and I will be contributing to the [Open Science Community Saudi Arabia (OSCSA)](https://osc-ksa.com/). The Outreachy Internship is a three months program to contribute to any open source community of your choice. For the selection period, I contributed to improving the Open Science Community Saudi Arabia (OSCSA) website and also colloborated in developing a Massive Open Online Courses(MOOCs) platform. The mentors were super helful and I enjoyed contributing to the community.
+## Goodnews Sandy
+ Hi! My name is Goodnews Sandy, I am from Nigeria. Nigeria is a great country in Africa with beautiful landscapes and great weather throughout the year. Nigeria has many languages and varities of meal receipes. I hope you visit someday. 
 
-The Open Science Community Saudi Arabia (OSCSA) is a huge community in Open Science and I am excited about the things I will be learning during the internship period. I look forward to learning with the community and I intend to maximize all the opportunities available to me. I believe the knowledge from this experience would be an added value to my skill sets and career progression in general. 
+### What I do
+ I am a Frontend Developer and a Technical Writer. I enjoy using frontend technologies to build web-based applications that leave lasting impression on users.  I write to consolidate my knowledge and also share with others. I love contributing to open source because I get to learn new technologies and build tools that peolple can use,  my hobbies: sports and reading. 
+
+ I have an educational background in Petroleum Engineering and had a career change to Computer Science related field because it offered me more opportunities to use my creativity to build things.  I love building things!!!! and I hope to use my skills to contribute to the Oil and Gas sector.
+
+### As an Outreachy Intern
+I am one of the successful candidates selected to participate in the [Outreachy 2023 Internship](https://www.outreachy.org/) , I applied to Outreachy because I see it as an opportunity to learn new technologies and contribute to varities of community through Open Source.  The Outreachy Internship is a three months program to contribute to any Open Source community of your choice. For the selection period, I chose [Open Science Community Saudi Arabia (OSCSA)](https://github.com/Open-Science-Community-Saudi-Arabia) because their goals were clearly stated.  I contributed to improving the Open Science Community Saudi Arabia (OSCSA) [website](https://github.com/Open-Science-Community-Saudi-Arabia/OSCSA_Website) and also colloborated in developing a [Massive Open Online Courses(MOOCs)](https://github.com/Open-Science-Community-Saudi-Arabia/MOOCs/tree/dev_team2) platform. The mentors were super helful and I enjoyed contributing to the community.  
+
+### Learning in [Open Science Community Saudi Arabia (OSCSA)](https://osc-ksa.com/).
+The Open Science Community Saudi Arabia (OSCSA) is part of a bigger Open Science Community. The Open Science Community is made up of scientists and researchers working together to build research tools, share knowledge and promote Open Science practices.
+ 
+I am excited to be contributing to the Open Science Community Saudi Arabia (OSCSA) for the Internship period. There is a lot to learn and I am prepared for it. We communicate with the mentors through Notion  and GitHub , and have two meetings per week to discuss progess. A couple of tasks has been listed on the notion board which includes: building blog post with [ Quarto](https://quarto.org/), intergating [Crowdin](https://crowdin.com/) to make  multilingual content, exploring [JupterBooks](https://jupyterbook.org/en/stable/intro.html) and  [Sphinx-js](https://www.sphinx-doc.org/en/master/) for documentation.
+
+I look forward to learning with the community and I intend to maximize all the opportunities available to me. I believe the knowledge from this experience would be an added value to my skill sets and career progression in general. 
 
 Alright Let's do this!!!
 
