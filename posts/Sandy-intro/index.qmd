@@ -24,3 +24,17 @@ Congratulations to me!! I have been selected to participate in the [Outreachy 20
 The Open Science Community Saudi Arabia (OSCSA) is a huge community in Open Science and I am excited about the things I will be learning during the internship period. I look forward to learning with the community and I intend to maximize all the opportunities available to me. I believe the knowledge from this experience would be an added value to my skill sets and career progression in general. 
 
 Alright Let's do this!!!
+
+## Richie Moluno
+I am Richie Moluno, a Fullstack developer but more of backend development. My major stack is MongoDb ExpressJS and NodeJs. Currently I study Mechanical Engineering at the University of Benin, Benin City. I originally wanted to study because of the Iron-man movie. I really love robots, the process of converting computer codes to mechanical movements really intrigues me. When it was time to move into the University, the school i had in mind didn't have any course for robotics. So based on my knowledge then, i felt Mechanical Engineering would be the closest alternative to Robotics. 
+
+### My passion
+I really love to code, i think the passion doesn't rely lie on coding itself, i'm more interested in anything that involves applying complex logic to get desired results. I often go for the more complex tasks, because when i overcome these tasks it gives me a greater sense of reward and achievement. 
+While i am not coding i like listening to Jordan Peterson, he speaks alot on self improvement, becoming a better person, being morally upright and how to live a meaningful life. I also like listening to music. I like the idea to read books not often though, but i am more interested in books that talk on human psychology it helps me gain a better understanding of how the human mind works. I also like to play table tennis
+
+### Why i chose Outreachy and my career path
+Being an Outreachy intern a great opportunity for anyone who is interested in pursuing a career in Open source, the opportunities here aren't limited to open source alone, in my opinion it cuts across other areas in tech. One thing i learnt is, my learning process would've been way shorter if i had good insight early enough. 
+I had no mentor right from when i started coding, at first i didn't feel like it'll be an issue, but i considered how long i spent going through uneccessary course content, learning concepts which weren't needed for the career path i chose. I think having a mentor would really help in guiding and point me in the right path. see outreachy as a means to learn more from peers, gain solid experience in open source contributions as well as make new valuable connections. 
+I hope to gain more experience in open source contributions, learn more about the open source community and also make new valuable connections that will be transferrable into the Robotics industry. 
+
+### My experience with open source
