@@ -1,5 +1,5 @@
 ---
-title: "How to create a blog post in the Open Science Community Saudi Arabia using Quarto"
+title: "How to create a blog post in the Open Science Community Saudi Arabia using Quarto?"
 author: 
     name: "Richie Moluno, Goodnews Sandy"
 date: "2022-12-08"
@@ -16,8 +16,6 @@ toc-location: right
 toc-depth: 3
 toc: true
 image: "./quarto-logo.jpg"
-lang: "fr"
-language: "fr"
 citation: 
     url: https://oscsa.netlify.app/posts/how-to-add-a-blog-post/
 site-url: https://oscsa.netlify.app/posts/how-to-add-a-blog-post/
