@@ -1,5 +1,6 @@
 tasks:
   - name: Setup & Build Quarto
+    init: echo "install Quarto"
     command: export QUARTO_VERSION="1.2.262" |
              sudo mkdir -p /opt/quarto/${QUARTO_VERSION} | 
              sudo curl -o quarto.tar.gz -L \
