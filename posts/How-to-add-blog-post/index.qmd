@@ -1,5 +1,5 @@
 ---
-title: "How to create a blog post in the Open Science Community Saudi Arabia using Quarto?"
+title: "How to create a blog post in the Open Science Community Saudi Arabia using Quarto"
 author: 
     name: "Richie Moluno, Goodnews Sandy"
 date: "2022-12-08"
@@ -10,9 +10,10 @@ categories:
 description: "This is a tutorial on how to add a blog post to the OSCSA blog using Quarto."
 licence: "CC BY"
 type: "post"
+toc: true
 toc-title: "Table of Contents"
 toc-location: right
-toc-depth: 5
+toc-depth: 3
 toc: true
 image: "./quarto-logo.jpg"
 lang: "fr"
