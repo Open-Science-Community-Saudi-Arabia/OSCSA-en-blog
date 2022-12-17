@@ -1,17 +1,19 @@
+image:
+  file: .gitpod.Dockerfile
 tasks:
+  - name: Setup R
+    init: echo "Setup R"
+    command: |
+      pip install radian
   - name: Setup Quarto
-    init: echo "Setup Quarto"
     command: |
       export QUARTO_VERSION="1.2.262"
-      sudo mkdir -p /opt/quarto/${QUARTO_VERSION} 
-  - name: Build Quarto
-    init: echo "install Quarto"
-    command: |
-      sudo curl -o quarto.tar.gz -L "https://github.com/quarto-dev/quarto-cli/releases/download/v${QUARTO_VERSION}/quarto-${QUARTO_VERSION}-linux-amd64.tar.gz" 
-      sudo tar -xvf quarto.tar.gz -C "/opt/quarto/${QUARTO_VERSION}" --strip-components=1 
-      /opt/quarto/"${QUARTO_VERSION}"/bin/quarto check
-      sudo ln -s /opt/quarto/${QUARTO_VERSION}/bin/quarto /usr/local/bin/quarto
-      sudo ln -s /opt/quarto/${QUARTO_VERSION}/bin/quarto /usr/local/bin/quarto
+      sudo curl -o quarto-linux-amd64.deb -L https://github.com/quarto-dev/quarto-cli/releases/download/v${QUARTO_VERSION}/quarto-${QUARTO_VERSION}-linux-amd64.deb
+      sudo apt-get install -y gdebi-core
+      sudo gdebi -n quarto-linux-amd64.deb
+      sudo rm quarto-linux-amd64.deb
+  - name: Check Quarto
+    command: /usr/local/bin/quarto check
 vscode:
   extensions: # based on nf-core.nf-core-extensionpack
     - codezombiech.gitignore # Language support for .gitignore files
@@ -24,7 +26,8 @@ vscode:
     - oderwat.indent-rainbow # Highlight indentation level
     - streetsidesoftware.code-spell-checker # Spelling checker for source code
     - quarto.quarto
-    - REditorSupport.r
+    - REditorSupport.r # R
+    - Ikuyadeu.r@1.2.1:z5vr1v1bfS++U/aHLSXQ6Q==
     
 github:
   prebuilds:
@@ -42,4 +45,3 @@ github:
     addComment: false
     # add a "Review in Gitpod" button to the pull request's description (defaults to false)
     addBadge: true
-
