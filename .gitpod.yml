@@ -1,6 +1,6 @@
 tasks:
   - name: Setup Quarto
-    init: echo "install Quarto"
+    init: echo "Setup Quarto"
     command: |
       export QUARTO_VERSION="1.2.262"
       sudo mkdir -p /opt/quarto/${QUARTO_VERSION} 
