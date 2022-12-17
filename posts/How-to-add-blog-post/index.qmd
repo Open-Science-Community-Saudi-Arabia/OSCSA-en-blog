@@ -12,8 +12,6 @@ licence: "CC BY"
 type: "post"
 toc: true
 toc-title: "Table of Contents"
-toc-location: right
-toc-depth: 3
 image: "./quarto-logo.jpg"
 citation: 
     url: https://oscsa.netlify.app/posts/how-to-add-a-blog-post/
