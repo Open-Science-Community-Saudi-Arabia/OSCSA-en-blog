@@ -51,6 +51,17 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "BatoolMM",
+      "name": "Batool Almarzouq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53487593?v=4",
+      "profile": "https://batool-almarzouq.netlify.app/",
+      "contributions": [
+        "infra",
+        "projectManagement",
+        "mentoring"
+      ]
     }
   ],
   "contributorsPerLine": 7,
