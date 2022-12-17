@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b094e502-790b-4b44-9239-aefd49175684/deploy-status)](https://app.netlify.com/sites/oscsa-en-blog/deploys)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # OSCSA-en-blog
@@ -30,6 +30,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="http://okereke.dev"><img src="https://avatars.githubusercontent.com/u/65835404?v=4?s=100" width="100px;" alt="Okereke Chinweotito"/><br /><sub><b>Okereke Chinweotito</b></sub></a><br /><a href="#infra-okerekechinweotito" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-okerekechinweotito" title="Maintenance">🚧</a></td>
       <td align="center"><a href="http://odion.hashnode.dev"><img src="https://avatars.githubusercontent.com/u/99491084?v=4?s=100" width="100px;" alt="Odion Sonny-Egbeahie"/><br /><sub><b>Odion Sonny-Egbeahie</b></sub></a><br /><a href="https://github.com/Open-Science-Community-Saudi-Arabia/OSCSA-en-blog/commits?author=Odion-Sonny" title="Documentation">📖</a></td>
       <td align="center"><a href="https://goodnewssandy.netlify.app/"><img src="https://avatars.githubusercontent.com/u/54219127?v=4?s=100" width="100px;" alt="Goodnews Sandy"/><br /><sub><b>Goodnews Sandy</b></sub></a><br /><a href="https://github.com/Open-Science-Community-Saudi-Arabia/OSCSA-en-blog/issues?q=author%3Asandygudie" title="Bug reports">🐛</a></td>
+      <td align="center"><a href="https://batool-almarzouq.netlify.app/"><img src="https://avatars.githubusercontent.com/u/53487593?v=4?s=100" width="100px;" alt="Batool Almarzouq"/><br /><sub><b>Batool Almarzouq</b></sub></a><br /><a href="#infra-BatoolMM" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#projectManagement-BatoolMM" title="Project Management">📆</a> <a href="#mentoring-BatoolMM" title="Mentoring">🧑‍🏫</a></td>
     </tr>
   </tbody>
 </table>
