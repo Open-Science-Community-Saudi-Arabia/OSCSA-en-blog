@@ -71,6 +71,15 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "alswajiab",
+      "name": "Abdulrahman Alswaji",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42093749?v=4",
+      "profile": "https://github.com/alswajiab",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
