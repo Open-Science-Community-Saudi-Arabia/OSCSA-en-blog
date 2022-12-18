@@ -54,7 +54,7 @@ To start making contributions to the OSCSA blog, you will need to add the [OSCSA
 ##### Step 1 - Fork the repository
 To get started, fork the OSCSA blog [repository](https://github.com/Open-Science-Community-Saudi-Arabia/OSCSA-en-blog) from GitHub.
 
-![](./create_fork.png){fig-align="center" width="auto"}
+![](./create_fork.png){fig-align="center" width="auto" fig-alt="Create new fork"}
 
 #
 
@@ -64,15 +64,17 @@ Next create a new branch for your blog post using the following steps, the branc
 - To create the new branch, navigate to your forked repository.
 - Under the repository name, click on the drop down menu and select the `View all branches` option.
 
-![](./new_branch1.png){fig-align="center" width="auto"}
+<!-- add alt text to images -->
+
+![](./new_branch1.png){fig-align="center" width="auto" fig-alt="View all branches"}
 
 - Click the `New branch` button.
 
-![](./new_branch_new.png){fig-align="center" width="80%"}
+![](./new_branch_new.png){fig-align="center" width="80%" fig-alt="Create new branch"}
 
 - Enter the name of your new branch and click the `Create branch` button.
 
-![](./new_branch3.png){fig-align="center" width="auto"}
+![](./new_branch3.png){fig-align="center" width="auto" fig-alt="Create new branch"}
 
 
 
@@ -99,10 +101,10 @@ For this tutorial, we won't be building a blog from scratch. Instead, we will be
 You'll need a new `index.qmd` file. This is where you will write your blog post using the Quarto syntax.
 
 - Add the name of the file that you want to create. For example, if you want to create a file named `index.qmd`, type `index.qmd` 
-![](./create_new_file2.png){fig-align="center" width="auto"}
+![](./create_new_file2.png){fig-align="center" width="auto" fig-alt="Create new file"}
 
 - Press the `Commit new file` button to create the new folder and file.
-![](./create_new_file3.png){fig-align="center" width="auto"}
+![](./create_new_file3.png){fig-align="center" width="auto" fig-alt="Commit new file"}
 
 
 #
@@ -153,7 +155,7 @@ For this tutorial we'll be using dummy text to write our blog post. You can repl
 Magna ad anim nulla reprehenderit ea dolor ullamco Lorem ad consequat enim. Et officia qui sit tempor voluptate aliqua enim deserunt laboris enim nulla ullamco. Non eiusmod esse esse amet enim dolore sint culpa. Esse anim duis elit velit aliqua et. Proident incididunt magna voluptate laboris laborum eiusmod deserunt dolore mollit fugiat quis cillum aliquip. Nulla quis id aute duis aliquip officia in enim duis laborum aute duis. Aliqua sunt fugiat nostrud officia esse occaecat commodo est.
 
 ## What is Quarto?
-![](./quarto.png){fig-align="center" width="100%"}   <!-- Image file -->
+![](./quarto.png){fig-align="center" width="100%" fig-alt="quarto"}   <!-- Image file -->
 
 Mollit eiusmod culpa in ad esse nulla est do consectetur. Eiusmod et Lorem sint veniam nisi minim ad velit sit culpa. Occaecat culpa sint cupidatat minim elit commodo labore mollit est ipsum. Anim officia est tempor esse voluptate occaecat nulla velit elit officia elit consectetur enim. Aliqua est reprehenderit culpa labore magna ut deserunt. Proident ex ad quis exercitation dolore minim cupidatat ad pariatur. Est minim irure enim non incididunt velit laborum est adipisicing enim eiusmod quis.
 
@@ -177,7 +179,7 @@ To add images to your blog post, add the image file to the same folder as the `i
 ![](./<image-name>.<image-extension>)
 ```
 
-
+#
 
 ##### Step 6 - Commit your changes
 Once you have finished writing your blog post, you can save the file and commit your changes to your forked repository.
@@ -189,11 +191,11 @@ Once you have finished writing your blog post, you can save the file and commit 
 ##### Step 7 - Create a pull request
 - Next, create a pull request to merge your changes to the main branch. You can do this by navigating to the GitHub repository and clicking on the `New pull request` button.
 
-![](./create_pullrequest.svg){fig-align="center" width="auto"}
+![](./create_pullrequest.svg){fig-align="center" width="auto" fig-alt="New pull request"}
 
 - The branch for the base repository should be set to `main` and the branch for the head repository should be set to the branch that you created in the previous step. Click the `Create pull request` button to create a new pull request.
 
-![](./create_PR__branch.svg){fig-align="center" width="auto"}
+![](./create_PR__branch.svg){fig-align="center" width="auto" fig-alt="Create pull request"}
 
 - Add a *title* and *description* for your pull request. The title of your pull request should be a short description of the changes that you made.
 it should follow the format `[blog]: Title of your blog` 
@@ -202,7 +204,7 @@ it should follow the format `[blog]: Title of your blog`
 
 - Click the `Create pull request` button to create a new pull request.
 
-![](./PR-template.svg){fig-align="center" width="auto"}
+![](./PR-template.svg){fig-align="center" width="auto" fig-alt="Create pull request"}
 
 #
 
@@ -240,7 +242,7 @@ Mollit eiusmod culpa in ad esse nulla est do consectetur. Eiusmod et Lorem sint 
 
 To see a preview of your blog post, you can visit the netlify preview link that was generated when you created the pull request. 
 
-![](./preview-netlify.svg){fig-align="center" width="auto"}
+![](./preview-netlify.svg){fig-align="center" width="auto" fig-alt="Netlify preview link"}
 
 
 
