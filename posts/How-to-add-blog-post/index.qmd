@@ -49,14 +49,14 @@ To Download the latest version of quarto visit the [Quarto](https://quarto.org/d
 ### Setup Local environment
 To start making contributions to the OSCSA blog, you will need to add the [OSCSA blog repository](https://github.com/Open-Science-Community-Saudi-Arabia/OSCSA-en-blog/) to your personal Github account. This will allow you to make changes to the blog without affecting the live version of the blog.
 
-
+#
 
 ##### Step 1 - Fork the repository
 To get started, fork the OSCSA blog [repository](https://github.com/Open-Science-Community-Saudi-Arabia/OSCSA-en-blog) from GitHub.
 
 ![](./create_fork.png){fig-align="center" width="auto"}
 
-
+#
 
 ##### Step 2 - Create a new branch
 Next create a new branch for your blog post using the following steps, the branch should be created on your forked repository.
@@ -81,7 +81,7 @@ To create a blog post using Quarto, you would need to first create a Markdown fi
 
 For this tutorial, we won't be building a blog from scratch. Instead, we will be adding new posts to the OSCSA blog using Quarto.
 
-
+#
 
 ##### Step 1 - Create a new folder 
 - Switch to the branch that you created in the previous step.
@@ -105,7 +105,7 @@ You'll need a new `index.qmd` file. This is where you will write your blog post 
 ![](./create_new_file3.png){fig-align="center" width="auto"}
 
 
-
+#
 
 ##### Step 3 - Add Metadata
 The  `index.qmd` file should contain the following metadata:
@@ -168,7 +168,7 @@ If you don't want the blog post to be published immediately, you can add the fol
 draft: true
 ```
 
-
+#
 
 ##### Step 5 - Add images
 To add images to your blog post, add the image file to the same folder as the `index.qmd`. You can then reference the image in your blog post using the following syntax:
@@ -182,6 +182,8 @@ To add images to your blog post, add the image file to the same folder as the `i
 ##### Step 6 - Commit your changes
 Once you have finished writing your blog post, you can save the file and commit your changes to your forked repository.
 
+
+#
 
 
 ##### Step 7 - Create a pull request
@@ -202,7 +204,7 @@ it should follow the format `[blog]: Title of your blog`
 
 ![](./PR-template.svg){fig-align="center" width="auto"}
 
-
+#
 
 ##### Step 8 - Merge your changes
 Once you have created a pull request, you can wait for your changes to be reviewed and merged to the main branch.
