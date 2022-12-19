@@ -27,11 +27,11 @@ Two amazing developers from Nigeria are currently contributing to the [Open Scie
 
 ::: {.grid .align-items-center}
 
-::: {.g-col-12 .g-col-md-6}
+::: {.g-col-lg-6 .g-col-12 }
 My name is Goodnews Sandy, I am a Frontend Developer and a Technical Writer. I enjoy using frontend technologies to build web-based applications that leave lasting impression on users.  I strive for excellence and pixel-perfect. I love when people go through my applications and they are like "WOW! this is great!!".  I also write, I have a couple of articles on [Meduim](https://sandygoody.medium.com/) mostly on technical topics , the personal articles are still drafts, LOL I hope to publish them someday.  Writing helps me to consolidate my knowledge and  also serves as an opportunity to share the lesssons with others.  
 :::
 
-::: {.g-col-12 .g-col-md-6}
+::: {.g-col-lg-6 .g-col-12 }
 ![](sandy-image.svg)
 :::
 
@@ -57,11 +57,11 @@ Alright Let's do this!!!
 ## Richie Moluno
 ::: {.grid .align-items-center}
 
-::: {.g-col-12 .g-col-md-6}
+::: {.g-col-lg-6 .g-col-12 }
 ![](richie-image.jpg)
 :::
 
-::: {.g-col-12 .g-col-md-6}
+::: {.g-col-lg-6 .g-col-12 }
 I am Richie Moluno, a Fullstack developer but more of backend development. My major stack is MongoDb ExpressJS and NodeJs. Currently I study Mechanical Engineering at the University of Benin, Benin City. I originally wanted to study because of the Iron-man movie. I really love robots, the process of converting computer codes to mechanical movements really intrigues me. When it was time to move into the University, the school i had in mind didn't have any course for robotics. So based on my knowledge then, i felt Mechanical Engineering would be the closest alternative to Robotics. 
 :::
 
