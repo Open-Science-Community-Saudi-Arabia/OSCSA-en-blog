@@ -1,5 +1,5 @@
 ---
-title: "Hello Outreachy Winter 2023!"
+title: "Learning through Open Source"
 author:
   - name: Goodnews Sandy 
     url: https://goodnewssandy.netlify.app/
