@@ -7,13 +7,13 @@ author:
 date: "2022-12-06"
 categories: [outreachy]
 description: |
- Meet the two Nigerian developers contributing to Open Science Community Saudi Arabia (OSCSA) 
+ Meet the two Nigerian developers contributing to Open Science Community Saudi Arabia (OSCSA).
 license: "CC BY"
 toc-title: Table of contents
 toc-location: left
-image: outreachy-image.png
+image: thumbnail.svg
 citation:
-  url: https://oscsa-en-blog.netlify.app/posts/Sandy_intro
+  url: https://oscsa-en-blog.netlify.app/posts/outreachy-intro
 ---
 ::: {.column width="auto"}
 ![](outreachy-image.png){fig-align="center"}
@@ -43,7 +43,7 @@ My name is Goodnews Sandy, I am a Frontend Developer and a Technical Writer. I e
  I have an educational background in Petroleum Engineering and had a career change to Computer Science related field because i realize that technological fields offered more opportunities to use my creativity and I love building things!!! and I do hope to use my skills to contribute to the Oil and Gas industry.
 
 ### As an Outreachy Intern
-I am one of the successful candidates selected to participate in the [Outreachy 2023 Internship](https://www.outreachy.org/) , I applied to Outreachy because I see it as an opportunity to learn new technologies and contribute to varities of community through Open Source.  The Outreachy Internship is a three months program to contribute to any Open Source community of your choice. For the selection period, I chose [Open Science Community Saudi Arabia (OSCSA)](https://github.com/Open-Science-Community-Saudi-Arabia) because their goals were clearly stated.  I contributed to improving the Open Science Community Saudi Arabia (OSCSA) [website](https://github.com/Open-Science-Community-Saudi-Arabia/OSCSA_Website) and also colloborated in developing a [Massive Open Online Courses(MOOCs)](https://github.com/Open-Science-Community-Saudi-Arabia/MOOCs/tree/dev_team2) platform. The mentors were super helful and I enjoyed contributing to the community.  
+I am one of the successful candidates selected to participate in the [Outreachy 2023 Internship](https://www.outreachy.org/) , I applied to Outreachy because I see it as an opportunity to learn new technologies and contribute to varities of community through Open Source.  The Outreachy Internship is a three months program to contribute to any Open Source community of your choice. For the selection period, I chose [Open Science Community Saudi Arabia (OSCSA)](https://github.com/Open-Science-Community-Saudi-Arabia) because their goals were clearly stated.  I contributed to improving the Open Science Community Saudi Arabia (OSCSA) [website](https://github.com/Open-Science-Community-Saudi-Arabia/OSCSA_Website) and also collaborated in developing a [Massive Open Online Courses(MOOCs)](https://github.com/Open-Science-Community-Saudi-Arabia/MOOCs/tree/dev_team2) platform. The mentors were super helful and I enjoyed contributing to the community.  
 
 ### Learning in [Open Science Community Saudi Arabia (OSCSA)](https://osc-ksa.com/).
 The Open Science Community Saudi Arabia (OSCSA) is part of a bigger Open Science Community. The Open Science Community is made up of scientists and researchers working together to build research tools, share knowledge and promote Open Science practices.
@@ -62,7 +62,7 @@ Alright Let's do this!!!
 :::
 
 ::: {.g-col-lg-6 .g-col-12 }
-I am Richie Moluno, a Fullstack developer but more of backend development. My major stack is MongoDb ExpressJS and NodeJs. Currently I study Mechanical Engineering at the University of Benin, Benin City. I originally wanted to study because of the Iron-man movie. I really love robots, the process of converting computer codes to mechanical movements really intrigues me. When it was time to move into the University, the school i had in mind didn't have any course for robotics. So based on my knowledge then, i felt Mechanical Engineering would be the closest alternative to Robotics. 
+I am Richie Moluno, a Fullstack developer but more of backend development. My major stack is MongoDb ExpressJS and NodeJs. Currently I study Mechanical Engineering at the University of Benin, Benin City. I originally wanted to study Robotics because of the Iron-man movie. I really love robots, the process of converting computer codes to mechanical movements really intrigues me. When it was time to move into the University, the school i had in mind didn't have any course for Robotics. So based on my knowledge then, i felt Mechanical Engineering would be the closest alternative to Robotics. 
 :::
 
 ::::
