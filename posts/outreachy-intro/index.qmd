@@ -62,7 +62,7 @@ Alright Let's do this!!!
 :::
 
 ::: {.g-col-lg-6 .g-col-12 }
-I am Richie Moluno, a Fullstack developer but more of backend development. My major stack is MongoDb ExpressJS and NodeJs. Currently I study Mechanical Engineering at the University of Benin, Benin City. I originally wanted to study Robotics because of the Iron-man movie. I really love robots, the process of converting computer codes to mechanical movements really intrigues me. When it was time to move into the University, the school i had in mind didn't have any course for Robotics. So based on my knowledge then, i felt Mechanical Engineering would be the closest alternative to Robotics. 
+I am Richie Moluno, a Fullstack developer but more of a backend developer. My major stack is MongoDb ExpressJS and NodeJs. Currently, I am studying Mechanical Engineering at the University of Benin, Benin City. I originally wanted to study Robotics because of the Iron-man movie. I really love robots, the process of converting computer codes to mechanical movements really intrigues me. When it was time to move to the University, the school I had in mind didn't have any courses in Robotics. So based on my knowledge then, I felt Mechanical Engineering would be the closest alternative to Robotics. 
 :::
 
 ::::
