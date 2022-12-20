@@ -33,5 +33,12 @@
     "title": "About",
     "section": "",
     "text": "This is an English blog posts for Open Science community Saudi Arabia (OSCSA). OSCSA aims to provide a place where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and provide feedback on policies, infrastructures and support services. Together working to make Open Science the norm in Saudi Arabia and the Middle East. Our community is part of the International Network of Open Science & Scholarship Communities (INOSC)."
+  },
+  {
+    "objectID": "posts/Sandy-intro/index.html",
+    "href": "posts/Sandy-intro/index.html",
+    "title": "Hello Outreachy Winter 2023!",
+    "section": "",
+    "text": "My name is Goodnews Sandy, I am a Frontend Developer and a Technical Writer. I enjoy building web-based applications that leave a lasting impressions on users using various frontend technologies. I write to consolidate my knowledge and also share with others. I love contributing to open source and my hobbies: sports and reading.\nCongratulations to me!! I have been selected to participate in the Outreachy 2023 Internship and I will be contributing to the Open Science Community Saudi Arabia (OSCSA). The Outreachy Internship is a three months program to contribute to any open source community of your choice. For the selection period, I contributed to improving the Open Science Community Saudi Arabia (OSCSA) website and also colloborated in developing a Massive Open Online Course(MOOCs) platform. The mentors were super helful and I enjoyed contributing to the community.\nThe Open Science Community Saudi Arabia (OSCSA) is a huge community in Open Science and I am excited about the things I will be learning during the internship period. I look forward to learning with the community and I intend to maximize all the opportunities available to me. I believe the knowledge from this experience would be an added value to my skill sets and career progression in general.\nAlright Let’s do this!!!\n\n\n\nReusehttps://creativecommons.org/licenses/by/4.0/CitationBibTeX citation:@online{sandy2022,\n  author = {Goodnews Sandy},\n  title = {Hello {Outreachy} {Winter} 2023!},\n  date = {2022-12-06},\n  url = {https://oscsa-en-blog.netlify.app/posts/Sandy_intro},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nGoodnews Sandy. 2022. “Hello Outreachy Winter 2023!”\nDecember 6, 2022. https://oscsa-en-blog.netlify.app/posts/Sandy_intro."
   }
 ]
