@@ -11,7 +11,7 @@ description: |
 license: "CC BY"
 toc-title: Table of contents
 toc-location: left
-image: thumbnail.svg
+image: fct.jpg
 citation:
   url: https://oscsa-en-blog.netlify.app/posts/outreachy-intro
 ---
