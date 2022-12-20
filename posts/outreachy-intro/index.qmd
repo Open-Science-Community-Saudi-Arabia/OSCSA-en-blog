@@ -21,7 +21,7 @@ citation:
 
 
 # Introduction
-Two amazing developers from Nigeria are currently contributing to the [Open Science Community Saudi Arabia (OSCSA)](https://github.com/Open-Science-Community-Saudi-Arabia) for the  [Outreachy 2023 Internship](https://www.outreachy.org/) and as part of the requirement for the Outreachy Internship, we would like to briefly introduce ourselves and how we got here.
+Two amazing developers from Nigeria are currently contributing to the [Open Science Community Saudi Arabia (OSCSA)](https://github.com/Open-Science-Community-Saudi-Arabia) for the  [Outreachy 2023 Internship](https://www.outreachy.org/) and as part of the requirement for the Outreachy Internship, we would like to briefly introduce ourselves and how we got here
 
 ## Goodnews Sandy
 
