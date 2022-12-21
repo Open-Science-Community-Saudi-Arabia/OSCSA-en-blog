@@ -12,12 +12,13 @@ licence: "CC BY"
 type: "post"
 format: 
   html:
+    embed-resources: true
     df-print: paged
     toc: true
     toc-depth: 5
     toc-location: left
     toc-title: "On this page"
-image: "./quarto-logo.jpg"
+image: "./thumbnail.png"
 citation: 
     url: https://oscsa.netlify.app/posts/how-to-add-a-blog-post/
 site-url: https://oscsa.netlify.app/posts/how-to-add-a-blog-post/
@@ -25,7 +26,6 @@ site-url: https://oscsa.netlify.app/posts/how-to-add-a-blog-post/
 
 
 ![](./quarto-logo.jpg){fig-align="center" fig-caption="Quarto logo"}
-
 
 
 ## What is Quarto?
