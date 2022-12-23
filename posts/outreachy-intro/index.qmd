@@ -28,7 +28,7 @@ Two amazing developers from Nigeria are currently contributing to the [Open Scie
 ::: {.grid .align-items-center}
 
 ::: {.g-col-lg-6 .g-col-12 }
-My name is Goodnews Sandy, I am a Frontend Developer and a Technical Writer. I enjoy using frontend technologies to build web-based applications that leave lasting impression on users.  I strive for excellence and pixel-perfect. I love when people go through my applications and they are like "WOW! this is great!!".  I also write, I have a couple of articles on [Meduim](https://sandygoody.medium.com/) mostly on technical topics , the personal articles are still drafts, LOL I hope to publish them someday.  Writing helps me to consolidate my knowledge and  also serves as an opportunity to share the lesssons with others.  
+My name is Goodnews Sandy, and I am a front-end Developer and a Technical Writer. I enjoy using front-end technologies to build web-based applications that leave a lasting impression on users. I strive for excellence and pixel-perfect. I love when people go through my applications, and they are like "WOW! this is great!!". I also write; I have a couple of articles on [Meduim](https://sandygoody.medium.com/), mainly on technical topics; the personal articles are still drafts, LOL. I hope to publish them someday. Writing helps me consolidate my knowledge and also allows me to share the lessons with others.
 :::
 
 ::: {.g-col-lg-6 .g-col-12 }
@@ -36,23 +36,23 @@ My name is Goodnews Sandy, I am a Frontend Developer and a Technical Writer. I e
 :::
 
 ::::
- I love contributing to open source,  I see it as a community where i  get to learn new technologies and build tools that peolple can use. Others things I do includes: Mentoring , I have mentored in three-four internships, and it's always a great experiences to teach beginners how to develop applications and navigate a career in Tech. 
+ I love contributing to open source,  I see it as a community where i  get to learn new technologies and build tools that people can use. Other things I do includes: Mentoring, I have mentored in three-four internships, and it's always a great experience to teach beginners how to develop applications and navigate a career in Tech. 
  
- My hobbies: sports and reading(Sidney Sheldon collection is my favorite).
-
- I have an educational background in Petroleum Engineering and had a career change to Computer Science related field because i realize that technological fields offered more opportunities to use my creativity and I love building things!!! and I do hope to use my skills to contribute to the Oil and Gas industry.
+ My hobbies: are sports and reading (Sidney Sheldon's collection is my favourite).
+ 
+I have an educational background in Petroleum Engineering and had a career change to Computer Science related field because I realized that technological fields offered more opportunities to use my creativity, and I love building things!!! and I do hope to use my skills to contribute to the Oil and Gas industry.
 
 ### As an Outreachy Intern
-I am one of the successful candidates selected to participate in the [Outreachy 2023 Internship](https://www.outreachy.org/) , I applied to Outreachy because I see it as an opportunity to learn new technologies and contribute to varieties of communities through Open Source.  The Outreachy Internship is a three months program to contribute to any Open Source community of your choice. For the selection period, I chose [Open Science Community Saudi Arabia (OSCSA)](https://github.com/Open-Science-Community-Saudi-Arabia) because their goals were clearly stated.  I contributed to improving the Open Science Community Saudi Arabia (OSCSA) [website](https://github.com/Open-Science-Community-Saudi-Arabia/OSCSA_Website) and also collaborated in developing a [Massive Open Online Courses(MOOCs)](https://github.com/Open-Science-Community-Saudi-Arabia/MOOCs/tree/dev_team2) platform. The mentors were super helpful and I enjoyed contributing to the community.  
+I am one of the successful candidates selected to participate in the [Outreachy 2023 Internship](https://www.outreachy.org/) , I applied to Outreachy because I see it as an opportunity to learn new technologies and contribute to varieties of communities through Open Source. The Outreachy Internship is a three months program to contribute to any Open Source community of your choice. For the selection period, I chose [Open Science Community Saudi Arabia (OSCSA)](https://github.com/Open-Science-Community-Saudi-Arabia) because their goals were clearly stated. I contributed to improving the Open Science Community Saudi Arabia (OSCSA) [website](https://github.com/Open-Science-Community-Saudi-Arabia/OSCSA_Website) and also collaborated in developing a [Massive Open Online Courses(MOOCs)](https://github.com/Open-Science-Community-Saudi-Arabia/MOOCs/tree/dev_team2) platform. The mentors were super helpful and I enjoyed contributing to the community.  
 
 ### Learning in [Open Science Community Saudi Arabia (OSCSA)](https://osc-ksa.com/).
 The Open Science Community Saudi Arabia (OSCSA) is part of a bigger Open Science Community. The Open Science Community is made up of scientists and researchers working together to build research tools, share knowledge and promote Open Science practices.
  
-I am excited to be contributing to the Open Science Community Saudi Arabia (OSCSA) for the Internship period. There is a lot to learn and I am prepared for it. We communicate with the mentors through Notion and GitHub , and have two meetings per week to discuss progess. A couple of tasks has been listed on the notion board which includes: building blog post with [ Quarto](https://quarto.org/), intergating [Crowdin](https://crowdin.com/) to make  multilingual content, exploring [JupterBooks](https://jupyterbook.org/en/stable/intro.html) and  [Sphinx-js](https://www.sphinx-doc.org/en/master/) for documentation.
+I am excited to be contributing to the Open Science Community Saudi Arabia (OSCSA) for the Internship period. There is a lot to learn, and I am prepared for it. We communicate with the mentors through Notion and GitHub , and have two meetings per week to discuss progress. A couple of tasks have been listed on the notion board, which include:  building blog post with [ Quarto](https://quarto.org/), integrating [Crowdin](https://crowdin.com/) to make multilingual content, exploring [JupterBooks](https://jupyterbook.org/en/stable/intro.html) and  [Sphinx-js](https://www.sphinx-doc.org/en/master/) for documentation.
 
 I look forward to learning with the community and I intend to maximize all the opportunities available to me. I believe the knowledge from this experience would be an added value to my skill sets and career progression in general. 
 
-Alright Let's do this!!!
+Alright, Let's do this!!!
 
 ## Richie Moluno
 ::: {.grid .align-items-center}
@@ -62,17 +62,17 @@ Alright Let's do this!!!
 :::
 
 ::: {.g-col-lg-6 .g-col-12 }
-I am Richie Moluno, a Fullstack developer but more of a backend developer. My major stack is MongoDb ExpressJS and NodeJs. Currently, I am studying Mechanical Engineering at the University of Benin, Benin City. I originally wanted to study Robotics because of the Iron-man movie. I really love robots, the process of converting computer codes to mechanical movements really intrigues me. When it was time to move to the University, the school I had in mind didn't have any courses in Robotics. So based on my knowledge then, I felt Mechanical Engineering would be the closest alternative to Robotics. 
+I am Richie Moluno, a Fullstack developer but more of a backend developer. My major stack is MongoDb ExpressJS and NodeJs. Currently, I am studying Mechanical Engineering at the University of Benin, Benin City. I originally wanted to study Robotics because of the Iron-man movie. I really love robots, the process of converting computer codes to mechanical movements really intrigues me. When it was time to move to the University, the school I had in mind didn't have any courses in Robotics. Based on my knowledge then, I felt Mechanical Engineering would be the closest alternative to Robotics. 
 :::
 
 ::::
 
 ### My Passion
-I really love to code, i think the passion doesn't rely on coding itself, i'm more interested in anything that involves applying complex logic to get desired results. I often go for the more complex tasks, because when i overcome these tasks it gives me a greater sense of reward and achievement. 
-While i am not coding i like listening to Jordan Peterson, he speaks alot on self improvement, becoming a better person, being morally upright and how to live a meaningful life. I also like listening to music. I like the idea of reading books not often though, but i am more interested in books that talk on human psychology it helps me gain a better understanding of how the human mind works. I also like to play table tennis
+I really love to code, I think the passion doesn't rely on coding itself. I'm more interested in anything that involves applying complex logic to get desired results. I often go for the more complex tasks because when I overcome these tasks, it gives me a greater sense of reward and achievement. 
+While I am not coding, I like listening to Jordan Peterson; he speaks a lot on self-improvement, becoming a better person, being morally upright and how to live a meaningful life. I also like listening to music. I like the idea of reading books not often, though, but I am more interested in books that talk about human psychology. It helps me gain a better understanding of how the human mind works. I also like to play table tennis.
 
 ### Why I Chose Outreachy and My Career Path
-Being an Outreachy intern a great opportunity for anyone who is interested in pursuing a career in Open source, the opportunities here aren't limited to open source alone, in my opinion it cuts across other areas in Tech. One thing i learnt is, my learning process would've been way shorter if i had good insight early enough. 
-I had no mentor right from when i started coding, at first i didn't feel like it'll be an issue, but i considered how long i spent going through uneccessary course content, learning concepts which weren't needed for the career path i chose. I think having a mentor would really help in guiding and point me in the right path. I see Outreachy as a means to learn more from peers, gain solid experience in open source contributions as well as make new valuable connections. 
+Being an Outreachy intern is a great opportunity for anyone who is interested in pursuing a career in Open source, the opportunities here aren't limited to open source alone; in my opinion, they cut across other areas in Tech. One thing I learnt is my learning process would've been way shorter if I had good insight early enough. 
+I had no mentor right from when I started coding; at first, I didn't feel like it'll be an issue, but I considered how long I spent going through unnecessary course content and learning concepts which weren't needed for the career path I chose. I think having a mentor would really help in guiding and pointing me on the right path. I see Outreachy as a means to learn more from peers, gain solid experience in open source contributions as well as make new valuable connections. 
 I hope to gain more experience in open source contributions, learn more about the open source community and also make new valuable connections that will be transferrable into the Robotics industry. 
 
