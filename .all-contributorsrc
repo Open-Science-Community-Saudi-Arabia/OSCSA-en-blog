@@ -53,6 +53,35 @@
         "blog",
         "doc"
       ]
+    },
+    {
+      "login": "BatoolMM",
+      "name": "Batool Almarzouq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53487593?v=4",
+      "profile": "https://batool-almarzouq.netlify.app/",
+      "contributions": [
+        "infra",
+        "projectManagement",
+        "mentoring"
+      ]
+    },
+    {
+      "login": "RealRichi3",
+      "name": "Richie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76791916?v=4",
+      "profile": "https://realrichi3.github.io",
+      "contributions": [
+        "blog"
+      ]
+    },
+    {
+      "login": "alswajiab",
+      "name": "Abdulrahman Alswaji",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42093749?v=4",
+      "profile": "https://github.com/alswajiab",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,

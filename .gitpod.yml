@@ -1,0 +1,47 @@
+image:
+  file: .gitpod.Dockerfile
+tasks:
+  - name: Setup R
+    init: echo "Setup R"
+    command: |
+      pip install radian
+  - name: Setup Quarto
+    command: |
+      export QUARTO_VERSION="1.2.262"
+      sudo curl -o quarto-linux-amd64.deb -L https://github.com/quarto-dev/quarto-cli/releases/download/v${QUARTO_VERSION}/quarto-${QUARTO_VERSION}-linux-amd64.deb
+      sudo apt-get install -y gdebi-core
+      sudo gdebi -n quarto-linux-amd64.deb
+      sudo rm quarto-linux-amd64.deb
+  - name: Check Quarto
+    command: /usr/local/bin/quarto check
+vscode:
+  extensions: # based on nf-core.nf-core-extensionpack
+    - codezombiech.gitignore # Language support for .gitignore files
+    # - cssho.vscode-svgviewer                 # SVG viewer
+    - esbenp.prettier-vscode # Markdown/CommonMark linting and style checking for Visual Studio Code
+    - eamodio.gitlens # Quickly glimpse into whom, why, and when a line or code block was changed
+    - EditorConfig.EditorConfig # override user/workspace settings with settings found in .editorconfig files
+    - Gruntfuggly.todo-tree # Display TODO and FIXME in a tree view in the activity bar
+    - mechatroner.rainbow-csv # Highlight columns in csv files in different colors
+    - oderwat.indent-rainbow # Highlight indentation level
+    - streetsidesoftware.code-spell-checker # Spelling checker for source code
+    - quarto.quarto
+    - REditorSupport.r # R
+    - Ikuyadeu.r@1.2.1:z5vr1v1bfS++U/aHLSXQ6Q==
+    
+github:
+  prebuilds:
+    # enable for the default branch (defaults to true)
+    master: true
+    # enable for all branches in this repo (defaults to false)
+    branches: false
+    # enable for pull requests coming from this repo (defaults to true)
+    pullRequests: true
+    # enable for pull requests coming from forks (defaults to false)
+    pullRequestsFromForks: true
+    # add a check to pull requests (defaults to true)
+    addCheck: true
+    # add a "Review in Gitpod" button as a comment to pull requests (defaults to false)
+    addComment: false
+    # add a "Review in Gitpod" button to the pull request's description (defaults to false)
+    addBadge: true

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-0.9.339">
+<meta name="generator" content="quarto-1.2.269">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,19 +11,25 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 </style>
+
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
-<meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
 <link href="./favicon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
@@ -32,10 +38,10 @@ ul.task-list{list-style: none;}
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link id="quarto-text-highlighting-styles" href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -77,6 +83,12 @@ ul.task-list{list-style: none;}
       window['quarto-listing-loaded']();
     }
   });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
   </script>
 <script type="application/json" class="js-hypothesis-config">
 {
@@ -86,7 +98,7 @@ ul.task-list{list-style: none;}
 </script>
 <script async="" src="https://hypothes.is/embed.js"></script>
 <style>
-    .quarto-title-banner {
+    .quarto-title-block .quarto-title-banner {
       background: #EDF3F9;
     }
     </style>
@@ -102,33 +114,36 @@ ul.task-list{list-style: none;}
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <a class="navbar-brand" href="./index.html">
-    <img src="./logo3.png" alt="OSCSA logo">
-  </a>
+      <div class="navbar-brand-container">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./logo3.png" alt="" class="navbar-logo">
+    </a>
+  </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="https://osc-ksa.com/">Main Website</a>
+    <a class="nav-link" href="https://osc-ksa.com/">
+ <span class="menu-text">Main Website</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">About</a>
+    <a class="nav-link" href="./about.html">
+ <span class="menu-text">About</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/Open-Science-Community-Saudi-Arabia"><i class="bi bi-github" role="img">
 </i> 
- </a>
+ <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://twitter.com/OpenSciSaudi"><i class="bi bi-twitter" role="img">
 </i> 
- </a>
-  </li> 
-  
+ <span class="menu-text"></span></a>
+  </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
@@ -138,19 +153,17 @@ ul.task-list{list-style: none;}
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
+    <div class="quarto-title column-page-left">
       <h1 class="title">Open Science Community Saudi Arabia (OSCSA) Blog</h1>
             <p class="subtitle lead">Stories, tips, lessons and all things in our Open Science Community!</p>
-                </div>
+                      </div>
   </div>
     
   
-
-
-
   <div class="quarto-title-meta">
 
       
+    
       
     </div>
     
@@ -160,7 +173,7 @@ ul.task-list{list-style: none;}
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(1)</span></div><div class="category" data-category="outreachy">outreachy <span class="quarto-category-count">(3)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(1)</span></div><div class="category" data-category="outreachy">outreachy <span class="quarto-category-count">(5)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -173,9 +186,79 @@ ul.task-list{list-style: none;}
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="outreachy" data-listing-date-sort="1660078800000" data-listing-file-modified-sort="1661947004604" data-listing-reading-time-sort="1.91">
+<div class="quarto-post image-right" data-index="0" data-categories="outreachy" data-listing-date-sort="1670281200000" data-listing-file-modified-sort="1670519092245" data-listing-reading-time-sort="1.065">
 <div class="thumbnail">
-<p><a href="./posts/Asmaa_careers/index.html"> <img src="./posts/Asmaa_careers/img.png" class="thumnail-image" alt="image of worskspace with monitors and laptop screenss"> </a></p>
+<p><a href="./posts/Sandy-intro/index.html"> <img src="./posts/Sandy-intro/outreachy-image.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/Sandy-intro/index.html">
+<h3 class="no-anchor listing-title">
+Hello Outreachy Winter 2023!
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('outreachy'); return false;">
+outreachy
+</div>
+</div>
+<a href="./posts/Sandy-intro/index.html">
+<div class="listing-description">
+<p>I am excited to be contributing to the Open Science Community Saudi Arabia (OSCSA) as an outreachy intern. I will be sharing a brief intro about me.</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/Sandy-intro/index.html">
+<div class="listing-date">
+Dec 6, 2022
+</div>
+<div class="listing-author">
+Goodnews Sandy
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="outreachy" data-listing-date-sort="1662332400000" data-listing-file-modified-sort="1670334753614" data-listing-reading-time-sort="1.755">
+<div class="thumbnail">
+<p><a href="./posts/Internship wrap-up/index.html"> <img src="https://user-images.githubusercontent.com/73066984/188337507-e520a2ab-b66f-4176-b521-7eca2c0e6d16.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/Internship wrap-up/index.html">
+<h3 class="no-anchor listing-title">
+Internship wrap-up!
+</h3>
+<div class="listing-subtitle">
+Another Outreachy blog post!
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('outreachy'); return false;">
+outreachy
+</div>
+</div>
+<a href="./posts/Internship wrap-up/index.html">
+<div class="listing-description">
+<p>This blog post written by Asma, Outreachy intern in OSCSA about her Internship wrap-up.</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/Internship wrap-up/index.html">
+<div class="listing-date">
+Sep 5, 2022
+</div>
+<div class="listing-author">
+Asma Kacem
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="outreachy" data-listing-date-sort="1660086000000" data-listing-file-modified-sort="1670334753614" data-listing-reading-time-sort="1.91">
+<div class="thumbnail">
+<p><a href="./posts/Asmaa_careers/index.html"> <img src="./posts/Asmaa_careers/img.png" class="thumnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./posts/Asmaa_careers/index.html">
@@ -208,9 +291,9 @@ Asma Kacem
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="outreachy" data-listing-date-sort="1658437200000" data-listing-file-modified-sort="1661947131511" data-listing-reading-time-sort="1.145">
+<div class="quarto-post image-right" data-index="3" data-categories="outreachy" data-listing-date-sort="1658444400000" data-listing-file-modified-sort="1670334753561" data-listing-reading-time-sort="1.145">
 <div class="thumbnail">
-<p><a href="./posts/Asma-struggles/index.html"> <img src="./posts/Asma-struggles/struggle.jpeg" class="thumnail-image" alt="person trying to climb on rock"> </a></p>
+<p><a href="./posts/Asma-struggles/index.html"> <img src="./posts/Asma-struggles/struggle.jpeg" class="thumnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./posts/Asma-struggles/index.html">
@@ -243,9 +326,9 @@ Asma Kacem
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="outreachy" data-listing-date-sort="1653858000000" data-listing-file-modified-sort="1661946960146" data-listing-reading-time-sort="1.85">
+<div class="quarto-post image-right" data-index="4" data-categories="outreachy" data-listing-date-sort="1653865200000" data-listing-file-modified-sort="1670412500299" data-listing-reading-time-sort="1.85">
 <div class="thumbnail">
-<p><a href="./posts/Asmaa-intro/index.html"> <img src="./posts/Asmaa-intro/Outreachy-Internship-Program.png" class="thumnail-image" alt="Outreachy Internship Program card"> </a></p>
+<p><a href="./posts/Asmaa-intro/index.html"> <img src="./posts/Asmaa-intro/Outreachy-Internship-Program.png" class="thumnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./posts/Asmaa-intro/index.html">
@@ -278,9 +361,9 @@ Asma Kacem
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="news" data-listing-date-sort="1653858000000" data-listing-file-modified-sort="1661946930418" data-listing-reading-time-sort="0.22">
+<div class="quarto-post image-right" data-index="5" data-categories="news" data-listing-date-sort="1653865200000" data-listing-file-modified-sort="1670502802959" data-listing-reading-time-sort="0.22">
 <div class="thumbnail">
-<p><a href="./posts/welcome/index.html"> <img src="./posts/welcome/open.png" class="thumnail-image" alt="People walking in a line with text 'Evolving toward an era of open source'"> </a></p>
+<p><a href="./posts/welcome/index.html"> <img src="./posts/welcome/open.png" class="thumnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./posts/welcome/index.html">
@@ -298,7 +381,7 @@ news
 </div>
 <a href="./posts/welcome/index.html">
 <div class="listing-description">
-Welcome to Open Science community Saudi Arabia (OSCSA) where we add blog posts by our community members. Please feel free to submit new or existing blog posts that discuss Open Science. You are welcome to share articles, stories, and personal experiences through this platform.
+Welcome to Open Science community Saudi Arabia (OSCSA) where we add blog posts by our community members. Please feel free to submit new or existing blog…
 </div>
 </a>
 </div>
@@ -320,6 +403,24 @@ No matching items
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
@@ -341,7 +442,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -369,31 +487,50 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>
@@ -434,9 +571,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-</body>
-
-
-
-
-</html>
+</body></html>
