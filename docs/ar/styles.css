@@ -1,0 +1,69 @@
+/* css styles */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@100;200;300;400;500;600;700;800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Kufam:ital@1&display=swap');
+
+p {
+  font-family: 'Noto Sans Arabic', sans-serif;
+
+}
+
+body {
+  font-family: 'Noto Sans Arabic', sans-serif;
+}
+
+h1 {
+  font-family: 'Kufam', sans-serif;
+  font-weight: 500;
+  color: #008CBA;
+
+  /* color: #757474; */
+}
+
+
+h2 {
+  font-family: 'Noto Sans Arabic', sans-serif;
+  font-weight: 400;
+  /* color: #757474; */
+
+}
+
+h3 {
+  font-family: 'Noto Sans Arabic', sans-serif;
+  font-weight: 400;
+  /* color: #757474; */
+
+}
+
+
+code.sourceCode.bibtex {
+  unicode-bidi: isolate;
+}
+
+
+
+.me-auto {
+    margin-right: 0 !important;
+}
+
+ul.navbar-nav.navbar-nav-scroll.ms-auto {
+    margin-left: 0 !important;
+    margin-right: auto !important;
+}
+
+
+.quarto-title-banner {
+  background: white;
+}
+
+.navbar-brand>img {
+  max-height: 70px;
+}
+
+#listing-listing > div.list.quarto-listing-default > div:nth-child(1) > div.metadata > a > div.listing-author {
+    font-family: 'Noto Sans Arabic', sans-serif;
+
+  
+}
