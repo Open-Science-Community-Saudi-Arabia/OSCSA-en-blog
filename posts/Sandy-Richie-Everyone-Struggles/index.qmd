@@ -1,0 +1,52 @@
+---
+title: "The challenges in learning."
+author:
+  - name: Goodnews Sandy 
+    url: https://goodnewssandy.netlify.app/
+  - name: Richie Moluno
+date: "2023-01-20"
+categories: [outreachy]
+description: |
+ The more you struggle with learning the more likely you are to retain and recall that information later.
+license: "CC BY"
+toc-title: Table of contents
+toc-location: left
+image: struggle.svg
+citation:
+  url: https://oscsa-en-blog.netlify.app/posts/Sandy-Richie-Everyone-Struggles
+---
+::: {.column width="auto"}
+![](struggle.svg){fig-align="center"}
+:::
+
+
+# Introduction
+The process of learning involves struggles but it's good for you. Goodnews Sandy and Richie Moluno will be sharing perspectives on "Everyone Struggles".
+
+## Goodnews Sandy
+
+::: {.grid .align-items-center}
+
+::: {.g-col-lg-6 .g-col-12 }
+My name is Goodnews Sandy, and I am currently contributing to the OSCSA community. I will share about my experiences so far in the community and getting to learn new things (tools and skills). I am happy that I started the internship with an open mind to learn and that I was prepared to go through the hustle. Having to learn new skills or technology while taking on a task does not come easy, and sometimes one might spend more hours than intended. 
+:::
+
+::: {.g-col-lg-6 .g-col-12 }
+![](sandy-image.svg)
+:::
+
+::::
+An example: I had a task to set up and write code documentation for a project. We discussed the importance of code documentation and its ripple effects for future reference. Code documentation is great for keeping track of what a codebase does. It enhances code readability, reproducibility, and usability. Up until then, I had only known about project documentation, and the closest thing to code documentation for me was to add a comment. 
+I learned about three code documentation tools: Sphinx, Sphinxjs, and JSdocs. Sphinx is for Python projects, so I used JSdoc for the code documentation. Getting started with Jsdocs was simple, but I had some difficulties using it for React components and producing a readable documentation file. After a couple of hours of research, I believe I did better than I had started, and most importantly, I learned a great tool.
+
+#### Finally, but not least,
+When learning a new skill, the change from uncertainty to understanding is inevitable. And when things come together and start to connect and make sense, you realize that the struggles were worth it, yet this is only possible when you are willing to persist through the confusion and awkwardness.
+
+## Richie Moluno
+::: {.grid .align-items-center}
+
+::: {.g-col-lg-6 .g-col-12 }
+![](richie-image.jpg)
+:::
+
+::: {.g-col-lg-6 .g-col-12 }
