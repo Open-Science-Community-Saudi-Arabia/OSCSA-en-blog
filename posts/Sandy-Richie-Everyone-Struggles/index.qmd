@@ -43,14 +43,18 @@ I learned about three code documentation tools: Sphinx, Sphinxjs, and JSdocs. Sp
 When learning a new skill, the change from uncertainty to understanding is inevitable. And when things come together and start to connect and make sense, you realize that the struggles were worth it, yet this is only possible when you are willing to persist through the confusion and awkwardness.
 
 ## Richie Moluno
+
 ::: {.grid .align-items-center}
 
 ::: {.g-col-lg-6 .g-col-12 }
 Everybody struggles. It's a universal truth that nobody is immune to. Whether it's personal struggles, professional struggles, or struggles in relationships, we all go through difficult times in our lives. But just because we all struggle, doesn't mean that our struggles are the same.
 For some, their struggles may be as small as finding the motivation to get out of bed in the morning. For others, it may be as big as dealing with the loss of a loved one. Regardless of the size or scale of our struggles, one thing is for certain – they are an inevitable part of the human experience.
+:::
 
 ::: {.g-col-lg-6 .g-col-12 }
 ![](richie-image.jpg)
+:::
+
 :::
 
 At a point in time, i struggled with learning new concepts, i had this fear of trying new things. I saw most concepts as too difficult to understand. With time i learnt that nothing is too big to achieve, no concept is too difficult to understand, it may seem difficult at first but its really simple, they just have a stack of linked foundational knowledge, you just need to find the basic knowledge necessary and build on it.
