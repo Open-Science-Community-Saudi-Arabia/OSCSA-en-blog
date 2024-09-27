@@ -31,6 +31,8 @@ website:
     logo: logo3.png
     title: false
     right:
+      - text: "عربي"
+        href: ar
       - icon: github
         href: https://github.com/Open-Science-Community-Saudi-Arabia
       - icon: twitter
